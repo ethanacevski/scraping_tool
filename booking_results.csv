@@ -2,150 +2,50 @@ Index,Title,Address,Headline Room Type,Cost (AUD),Review Score,# of Reviews
 1,Olde Tudor Hotel,Launceston,Standard Double Room,163,8.0,"2,666"
 2,Caves Coastal Bar & Bungalows,Caves Beach,Ocean Bungalow - Adults Only,369,8.3,630
 3,Rydges World Square,"Sydney CBD, Sydney",Deluxe King – check-in after 8:30PM only,276,8.1,"5,883"
-4,Mantra Legends Hotel,"Surfers Paradise, Gold Coast",Hotel Deluxe Twin,179,8.0,"4,060"
+4,Sage Melbourne Ringwood,Ringwood,Deluxe King Room,204,8.7,"1,417"
 5,Quest Bella Vista,Baulkham Hills,Studio Apartment,193,8.5,"1,598"
-6,Kryal Castle Ballarat,Ballarat,Budget Family Room – Sleeps 14,153,8.1,"1,769"
+6,Kryal Castle Ballarat,Ballarat,Budget Family Room – Sleeps 9,153,8.1,"1,769"
 7,Atura Blacktown,Blacktown,Atura King Room,179,8.1,"1,282"
 8,Bay Of Fires Apartments,St Helens,King Suite,322,8.7,"1,044"
-9,Low Head Pilot Station,Low Head,One Bedroom Cottage - Boatcrew West,358,8.8,564
-10,Aquarius Kawana,Kawana Waters,Superior Two Bedroom Apartment with Lake Views,297,8.6,"2,318"
-11,Lancemore Milawa,Milawa,Garden Sunset,373,8.6,420
-12,Dolphin Lodge Albany - Self Contained Apartments at Middleton Beach,Albany,One-Bedroom Apartment,232,9.0,"2,640"
-13,Whitsunday Sands Resort,Bowen,Ocean Kitchenette Queen Room,170,9.0,"1,607"
-14,Contour Hotel Katherine,Katherine,Standard Room,273,8.1,"1,363"
-15,Woomargama Motel,Woomargama,Double Room,122,8.9,"1,371"
-16,Mercure Kangaroo Island Lodge,American River,Superior Queen Poolview,237,8.2,501
-17,Holiday Inn Melbourne Airport by IHG,Melbourne,Standard Queen Room - Non-Smoking,207,8.3,"9,551"
-18,Mercure Sydney Rouse Hill,Kellyville,Superior King Room,215,8.8,"1,377"
-19,The Continental Hotel,Broome,King Terrace,229,8.2,"1,204"
-20,Mineral Springs Hotel Hepburn,Hepburn Springs,Garden Classic Room,509,8.8,682
-21,Crowne Plaza Alice Springs Lasseters by IHG,Alice Springs,Standard Room,219,8.3,"1,534"
-22,Mantra Wollongong,Wollongong,Superior One-Bedroom Apartment,349,7.2,"1,621"
-23,The Albion Motel Castlemaine,Castlemaine,Queen Room,210,8.9,516
-24,Nightcap at Hotel Victor,Victor Harbor,Studio King,217,8.4,"1,296"
-25,Brookvale House Balingup,Balingup,One-Bedroom Cottage,210,8.9,314
-26,Atlantis Hotel Melbourne,"Melbourne CBD, Melbourne",Superior Queen Room - Disability Access,181,8.3,"10,379"
-27,Atherton Hinterland Motel,Atherton,Queen Room with Garden View,156,8.6,574
-28,Citadines on Bourke Melbourne,"Melbourne CBD, Melbourne",Deluxe Studio Apartment,225,8.5,"8,658"
-29,Punthill Sunshine,Sunshine,Studio Apartment,190,9.0,156
-30,Rydges Sydney Central,"Sydney CBD, Sydney",Double or Twin Room with Balcony,242,8.1,"5,233"
-31,Causeway 353 Hotel,"Melbourne CBD, Melbourne",Deluxe King Room,236,8.2,"9,233"
-32,Citadines Connect Sydney Airport,"Mascot, Sydney",Economy,167,8.4,"10,721"
-33,Flinders Landing Apartments,"Melbourne CBD, Melbourne",One-Bedroom Apartment,284,8.0,"3,216"
-34,Coral Tree Inn,Cairns,Standard Double or Twin Room,169,8.0,"3,590"
-35,Flotsam Seaside Studio Dunalley,Dunalley,Chalet,279,9.4,81
-36,Vibe Hotel Sydney Darling Harbour,"Sydney CBD, Sydney",Double or Twin Room,350,8.3,"4,489"
-37,The Oak & Anchor Hotel,Port Fairy,Queen Suite,444,9.0,"1,011"
-38,Songbirds Rainforest Retreat,Mount Tamborine,Deluxe Villa,329,8.4,526
-39,Losari Retreat,Margaret River Town,Garden Spa - Two-Bedroom Villa with Hot Tub,927,9.8,284
-40,The Lane Retreat,Pokolbin,Studio Retreat,323,9.4,762
-41,Alamanda Palm Cove by Lancemore,Palm Cove,1 Bedroom Pool View Apartment,355,8.5,281
-42,Kennington Units,Kennington,Two-Bedroom Apartment,373,8.3,82
-43,Colac Otway Caravan & Cabin Park,Colac,Standard Double Room,160,8.8,111
-44,Kaneira Hotel,Culgoa,Budget Twin Room,100,7.5,82
-45,Bega Motel,Bega,Deluxe King Room with Kitchenette,454,8.0,"1,046"
-46,The Clairfield Hotel,Mudgee,Olive Queen Room,255,8.8,371
-47,Mercure Melbourne Southbank,"Southbank, Melbourne",Superior Queen Room,255,7.8,"4,323"
-48,Holiday Inn Express Melbourne Southbank by IHG,"Southbank, Melbourne",Standard Queen Room - High Floor/Free Breakfast,271,8.3,"3,426"
-49,Tiny Escapes Cradle Valley,Moina,One-Bedroom Chalet - Hillside Wattle,529,9.5,579
-50,Courtyard by Marriott Brisbane South Bank,"South Brisbane, Brisbane",Superior King Room,198,8.8,"3,001"
-51,Platypus Park Country Retreat,Bridport,One-Bedroom Apartment,175,8.4,227
-52,Port Douglas Apartments - Adults Only Oasis,"Four Mile Beach, Port Douglas",One-Bedroom Apartment,297,9.2,280
-53,Quincy Hotel Melbourne,"Melbourne CBD, Melbourne",Quincy Queen or Twin Room,212,8.5,"7,075"
-54,Vibe Hotel Melbourne Docklands,"Docklands, Melbourne",Guest Room King,327,8.2,"4,383"
-55,Ink Hotel Melbourne Southbank,"Southbank, Melbourne",The Pocket,259,8.4,"4,044"
-56,Emporium Hotel South Bank,"South Brisbane, Brisbane",Vista King Suite,391,9.1,"3,303"
-57,Adina Apartment Hotel Darwin Waterfront,"Darwin CBD, Darwin",Studio,231,8.0,544
-58,Adina Apartment Hotel Brisbane,"Brisbane CBD, Brisbane",Studio Room,223,8.8,"5,329"
-59,H on Mitchell Apartment Hotel,"Darwin CBD, Darwin",Studio Room,190,8.7,"1,471"
-60,Best Western Melbourne Airport,Melbourne,Superior Queen Room,235,8.5,"6,013"
-61,TRYP Adelaide by Wyndham,"Adelaide CBD, Adelaide",Deluxe King Hotel Room,225,8.7,"2,522"
-62,Majestic M Suites,"North Adelaide, Adelaide",One-Bedroom Suite,261,9.2,"1,941"
-63,Lancemore Crossley St. Melbourne,"Melbourne CBD, Melbourne",Lancemore King Room,197,8.9,"2,385"
-64,Amica Serviced Apartments,Orange,Queen Studio Free Wifi and Parking,589,8.8,170
-65,The Richmond Hotel - Adelaide,"Adelaide CBD, Adelaide",Standard King Room,189,8.1,"1,650"
-66,Winston Cottage,Palmwoods,Queen Room with Balcony,279,8.3,165
-67,Kulin Erindale Apartments,Kulin,Two-Bedroom Apartment,293,9.3,135
-68,Clarion Suites Gateway,"Melbourne CBD, Melbourne",Studio,349,8.8,"5,355"
-69,Majestic Roof Garden Hotel,"Adelaide CBD, Adelaide",Classic Room,225,8.6,"1,764"
-70,Rendezvous Hotel Melbourne,"Melbourne CBD, Melbourne",Commerce Queen Room,719,8.2,"8,382"
-71,Sequoia Lodge,Crafers,One-Bedroom Suite,1899,9.8,38
-72,Port Douglas Peninsula Boutique Hotel - Adults Only Haven,"Four Mile Beach, Port Douglas",Pool View Suite - Free Wifi & Parking,420,8.7,322
-73,Foreshore Hotel,Hobart,Standard Queen Room,128,8.3,689
-74,Docklands Private Collection - NEWQUAY,"Docklands, Melbourne",Deluxe Studio,190,8.7,"2,086"
-75,"Kennigo Hotel Brisbane, Independent Collection by EVT","Fortitude Valley, Brisbane",Kennigo Superior Queen,999,8.2,"2,491"
-76,A by Adina Sydney,"Sydney CBD, Sydney",Studio King,450,8.7,"5,176"
-77,No 9 Springfield,"Potts Point, Sydney",Deluxe Double Room,187,8.1,"2,902"
-78,"The StandardX, Melbourne","Fitzroy, Melbourne",King of Kings,279,9.4,670
-79,Karma Suites - Heart of Montville,Montville,One-Bedroom Apartment with Garden View,450,9.7,73
-80,Ovolo The Valley Brisbane,"Fortitude Valley, Brisbane",Large,322,9.0,"1,606"
-81,"Adina Apartment Hotel Melbourne, Pentridge",Melbourne,Standard Double or Twin Room,215,9.0,"2,538"
-82,Adelaide Granada Motor Inn,"Glenunga, Adelaide",Standard Double Room,144,7.9,"1,217"
-83,Zagame's House,"Carlton, Melbourne",House Room,358,9.0,"2,550"
-84,Liberty One,"Footscray, Melbourne",One-Bedroom Apartment,416,7.7,"3,716"
-85,The Rivulet,Hobart,Deluxe King Suite - Cartela,285,9.3,"1,126"
-86,Vibe Hotel North Sydney,"North Sydney, Sydney",Standard Double or Twin Room,278,8.2,"3,411"
-87,Modern Loft Retreat in Barton Canberra ACT near Parliament House,Barton,One-Bedroom Apartment,189,9.8,9
-88,Salamanca Galleria Apartments,"Hobart CBD, Hobart",the BALMORAL KING - INTERNAL SKYLIGHT ROOM 8,284,8.8,489
-89,Quality Hotel Melbourne Airport,Melbourne,Superior Studio Room,169,8.4,"3,583"
-90,Gorgeous Getaway Toowoon Bay,Long Jetty,Villa,1600,9.0,14
-91,Freedom Shores Resort Airlie Beach,Airlie Beach,Queen Room with Sea View,325,9.2,593
-92,Melbourne Place,"Melbourne CBD, Melbourne",Everyday Queen,490,8.8,183
-93,A place to be,Kurmond,Deluxe Double Room with Balcony,415,9.4,82
-94,The Beetson Hotel -formerly Gambaro Hotel,Brisbane,Queen Room,222,8.3,"1,926"
-95,Barrington Riverside Cottages,Barrington,Villa with Garden View,330,8.6,161
-96,Coragulac House Cottages,Alvie,Two-Bedroom House,160,8.8,90
-97,Pensione Hotel Perth,"Perth CBD, Perth",Petite Queen Room,183,8.2,"1,927"
-98,The Ultimo,"Sydney CBD, Sydney",Ultimo Queen Room,263,8.1,"4,231"
-99,Tyrian Albert Park Lake,"St Kilda Road, Melbourne",Studio Apartment,521,8.9,"1,779"
-100,Oaks Melbourne Southbank Suites,"Southbank, Melbourne",One-Bedroom Apartment,209,8.1,"3,632"
-101,Il Mondo Boutique Hotel,"Kangaroo Point, Brisbane",Budget Double Room - Stair Access Only,229,8.9,967
-102,Bungalow 58 Lake Bennett Darwin,Lake Bennett,Three-Bedroom Villa,840,8.9,27
-103,Oasis at Burringbar waterfront holiday,Burringbar,One-Bedroom House,387,9.2,81
-104,The Shores Surfers Paradise Apartments,"Surfers Paradise, Gold Coast",One Bedroom Apartment,376,8.8,52
-105,"Mala Retreat, Shiraz Suite 5 Star Immaculate and Comfortable",East Maitland,Double Room with Private Bathroom,455,9.8,19
-106,Thredbo Alpine Hotel,Thredbo,Family Room,2848,,
-107,Old Market Inn,Port Fairy,Queen Suite,448,9.5,74
-108,The Florance,"Launceston CBD, Launceston",Queen Room,295,9.1,655
-109,Airlie Beach Eco Cabins - Adults Only,Airlie Beach,Gumnut Cabin - Adults Only,256,9.5,624
-110,Pan Pacific Melbourne,"Melbourne CBD, Melbourne",Family Queen Room,268,8.9,"3,209"
-111,Dayboro Cottages,Dayboro,Cottage with Garden View,253,9.2,170
-112,Orchard 2 Bedroom Apartment in Devonport,Don,Two-Bedroom Apartment,175,8.5,58
-113,"Sydney Stay - 5 Bedroom with AC, Study and TVs",West Hoxton,Five-Bedroom House,400,8.8,59
-114,Change Overnight,"Launceston CBD, Launceston",Studio - Disability Access,246,8.6,"1,439"
-115,Adelaide International Motel,Adelaide,Deluxe Queen Room,206,8.6,"1,347"
-116,Bluebush Estate,Lovedale,Bluebush Estate - The Cottage,422,8.6,83
-117,Hotel Challis Potts Point,"Potts Point, Sydney",Small Double Room,308,8.3,"2,307"
-118,St Marks Randwick,"Randwick, Sydney",Double Deluxe,262,8.4,"1,467"
-119,Modern house between Airport and Sea,Seaton,Three-Bedroom Villa,390,9.2,17
-120,HarbourView Apartment Hotel (now Arrow on Spencer),"Melbourne CBD, Melbourne",Standard Apartment,122,7.0,"3,682"
-121,Elizabethan Lodge,Melbourne,Standard Suite,140,8.2,939
-122,The Village Melbourne,"Melbourne CBD, Melbourne",Twin Room with Private Bathroom,204,8.0,754
-123,The Alison Randwick,"Randwick, Sydney",Double Room with Shared Bathroom,202,7.9,"1,030"
-124,The Russell Boutique Hotel,"Sydney CBD, Sydney",Standard Double Room,372,,
-125,"West Hotel Sydney, Curio Collection by Hilton","Sydney CBD, Sydney",King Acacia Room,270,8.5,"1,069"
-126,Oaks Melbourne on William Suites,"Melbourne CBD, Melbourne",Studio Apartment with Park View & Balcony,996,8.1,"5,106"
-127,"Cosy and historical one bedroom apartment, 5kms from Castlemaine, 2 kms from the Calder",Barkers Creek,One-Bedroom Apartment,168,8.9,8
-128,"Spiritwood, BnB for 2 in a quiet rural setting",Lower Barrington,One-Bedroom Apartment,213,9.5,109
-129,Sage Hotel James Street,"Fortitude Valley, Brisbane",Standard Queen Room,229,8.3,"2,010"
-130,Element Melbourne Richmond,Melbourne,King Room,289,8.6,"1,207"
-131,Novotel Darwin Airport,Darwin,Standard Queen Room,170,7.5,"1,450"
-132,Smart Motels Bert Hinkler,Bundaberg,Executive Twin Room,189,7.5,794
-133,PARKROYAL Melbourne Airport,Melbourne,Standard King Room,385,8.5,"6,876"
-134,Stamford Plaza Melbourne,"Melbourne CBD, Melbourne",Studio Queen Suite,251,8.0,"9,152"
-135,Hamilton on Beaumont,Newcastle,Studio,244,8.5,"1,071"
-136,Great Keppel Island Hideaway,Great Keppel,Budget Double Room,176,8.6,447
-137,Yealering Hotel,Yealering,Family Room with Shared Bathroom,109,8.8,13
-138,The Marker Apartments Melbourne,"West Melbourne, Melbourne",1 Bedroom Premier Apartment,674,8.8,"2,451"
-139,Mantra South Bank Brisbane,"South Brisbane, Brisbane",Hotel Room,215,7.7,"2,119"
-140,Metro Hotel Perth,"South Perth, Perth",Economy Double Room,158,7.2,"3,119"
-141,Stamford Plaza Adelaide,"Adelaide CBD, Adelaide",Superior City King,188,7.7,"7,354"
-142,Sofitel Sydney Darling Harbour,"Sydney CBD, Sydney",Superior Room with Two Double Beds,319,8.4,"4,927"
-143,3107 Estate,Irymple,Bungalow with Garden View,130,8.5,72
-144,Risby Cove Boutique Hotel,Strahan,Luxury Accessible Suite,695,8.3,636
-145,Quest NewQuay,"Docklands, Melbourne",Studio Apartment,197,8.7,"3,185"
-146,Up the Back,Bicheno,Two-Bedroom House,290,9.6,246
-147,Grand Hyatt Melbourne,"Melbourne CBD, Melbourne",King Room,650,8.7,"5,249"
-148,The Ville Resort - Casino,Townsville,Deluxe Twin Room,225,8.2,359
-149,Avani Melbourne Jazz Corner Residences,"Melbourne CBD, Melbourne",Studio,249,8.5,"1,357"
-150,Hyams Beach House B - Brand new lux beach oasis,Hyams Beach,Three-Bedroom House,1350,9.6,32
+9,ibis Brisbane Airport,Brisbane,Standard Twin Room,249,8.3,"14,108"
+10,Angel Sussurri,Yarramalong,King Room,300,9.0,172
+11,Low Head Pilot Station,Low Head,One Bedroom Cottage - Boatcrew East,358,8.8,564
+12,Aquarius Kawana,Kawana Waters,Superior Two Bedroom Apartment with Lake Views,297,8.6,"2,318"
+13,Lancemore Milawa,Milawa,Garden Sunset,358,8.6,420
+14,Dolphin Lodge Albany - Self Contained Apartments at Middleton Beach,Albany,One-Bedroom Apartment,232,9.0,"2,640"
+15,Whitsunday Sands Resort,Bowen,Ocean Kitchenette Queen Room,170,9.0,"1,607"
+16,Contour Hotel Katherine,Katherine,Standard Room,273,8.1,"1,363"
+17,Woomargama Motel,Woomargama,Double Room,122,8.9,"1,371"
+18,Mercure Kangaroo Island Lodge,American River,Superior Queen Poolview,237,8.2,501
+19,Holiday Inn Melbourne Airport by IHG,Melbourne,Standard Room,207,8.3,"9,551"
+20,Mercure Sydney Rouse Hill,Kellyville,Superior King Room,215,8.8,"1,377"
+21,The Continental Hotel,Broome,King Terrace,229,8.2,"1,204"
+22,Beresford Estate,McLaren Flat,Suite,455,9.2,381
+23,Oaks Darwin Elan Hotel,"Darwin CBD, Darwin",Hotel Room,169,8.4,"3,334"
+24,Mineral Springs Hotel Hepburn,Hepburn Springs,Heritage Classic room,509,8.8,682
+25,Mantra Wollongong,Wollongong,Superior One-Bedroom Apartment,349,7.2,"1,621"
+26,The Albion Motel Castlemaine,Castlemaine,Queen Room,210,8.9,516
+27,"Hospitality Kalgoorlie, SureStay Collection by Best Western",Kalgoorlie,Standard Queen Room,175,7.7,"1,366"
+28,Port Arthur Motor Inn,Port Arthur,Double or Twin Room with Garden View,145,7.9,"1,485"
+29,Desert Palms Alice Springs,Alice Springs,Family Villa,180,8.2,"2,203"
+30,Balgownie Estate Yarra Valley,Yarra Glen,Standard Queen Room,299,8.6,"1,810"
+31,High Country Holiday Park,Mansfield,Double Room with Private Bathroom,140,8.8,"1,538"
+32,Bicheno East Coast Holiday Park,Bicheno,One-Bedroom Cabin,119,8.2,"2,179"
+33,Clare Country Club,Clare,Superior Room,155,8.6,"1,127"
+34,Kingswood Motel,Tocumwal,Triple Room - Disability Access,143,7.6,594
+35,Rydges Kalgoorlie,Kalgoorlie,Executive One Bedroom Spa Garden View Apartment,350,8.2,"1,361"
+36,Gundagai Cabins & Tourist Park,Gundagai,Deluxe Queen Cabin,144,7.9,880
+37,Bega Motel,Bega,Deluxe King Room with Kitchenette,454,8.0,"1,046"
+38,Palm Beach Bed & Breakfast,Palm Beach,Deluxe Double Room with Balcony and Sea View,350,9.5,405
+39,Lakeview Motel and Apartments,Robe,Executive Twin Room,246,8.3,"1,418"
+40,Hospitality Esperance SureStay Collection by Best Western,Esperance,Standard Queen Room,329,8.1,"1,825"
+41,Up the Back,Bicheno,Two-Bedroom House,290,9.6,246
+42,Abode Murrumbateman,Murrumbateman,Queen Room,178,9.0,"2,384"
+43,Mission Beach Resort,Mission Beach,Superior Queen Room,222,8.1,"1,321"
+44,Hepburn at Hepburn,Hepburn Springs,One-Bedroom Villa,368,9.3,"1,237"
+45,The Oak & Anchor Hotel,Port Fairy,Queen Suite,444,9.0,"1,011"
+46,Adelong Motel,Narrabri,Double or Twin Room,190,8.7,"1,108"
+47,Mornington Hotel,Mornington,Standard Suite,161,8.5,"2,379"
+48,Ramada Resort by Wyndham Shoal Bay,Shoal Bay,Standard Studio – No Views,209,8.3,"3,399"
+49,Carnarvon Central Apartments,Carnarvon,Apartment,180,8.2,679
+50,Redhill Cooma Motor Inn,Cooma,Standard Twin Room,137,7.6,"1,683"

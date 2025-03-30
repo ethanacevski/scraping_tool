@@ -1,8 +1,26 @@
+"""Part 2 - Flask Server
+
+Create a simple Flask (Python) server in the same repository as Part 1.
+Create an API endpoint that when called:
+Reads your CSV file
+Identifies the 50 cheapest listings
+Returns it in JSON format to the end user
+
+"""
+
+#------------------------------------------------------------------------------
+"""Importing Libaries throughout the project"""
 from flask import Flask, jsonify
 import pandas as pd
 
+
+#------------------------------------------------------------------------------
+"""Defining paths and global variables"""
 app = Flask(__name__)
 
+
+#------------------------------------------------------------------------------
+"""Routing of localhost to '/' and JSON formating """
 @app.route('/', methods=['GET'])
 def get_cheapest_listings():
     try:
@@ -20,4 +38,4 @@ def get_cheapest_listings():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5050)
+    app.run(debug=True, port=5050)  # Change port number here
