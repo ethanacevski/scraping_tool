@@ -1,4 +1,4 @@
-# scraping_tool
+# scraping_tool_simple
 
 ### Part 1
 
