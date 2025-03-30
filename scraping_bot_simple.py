@@ -150,8 +150,9 @@ for x in listings:  # Adjust range for more listings
         
     # Cost
     try:
-        h_room_cost = x.find_element(By.CSS_SELECTOR, 'span[data-testid="price-and-discounted-price"]').text
-        # print(f"headline room cost found - {h_room_cost}")
+        h_room_cost_element = x.find_element(By.CSS_SELECTOR, 'span[data-testid="price-and-discounted-price"]').text
+        h_room_cost = h_room_cost_element.split(' ')[1]
+        print(f"headline room cost found - {h_room_cost}")
     except:
         h_room_cost = "N/A - Cost"
 
