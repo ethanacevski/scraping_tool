@@ -93,12 +93,17 @@ else:
 """ Scrolls the page in steps like a human would """
 
 def human_like_scroll(driver, pause_range=(0.8, 1.8), max_pause=3):
-    # Mimicing human, randomised scrolling w/ ocasional vertical scroll
-    # - iteratively updates total listing count randomly every 2-5 seconds
+    # Mimicking human scrolling w/ randomised delays and upward nudges
+    # Dynamically adjusts search_number if no more listings load
+
+    global search_number  # So we can update the outer variable
+
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    same_height_count = 0
 
     while True:
         for _ in range(random.randint(2, 5)):
-            scroll_by = random.randint(400, 700)
+            scroll_by = random.randint(400, 700) # Increase to speed up scroll
             driver.execute_script(f"window.scrollBy(0, {scroll_by});")
             time.sleep(random.uniform(*pause_range))
 
@@ -112,11 +117,22 @@ def human_like_scroll(driver, pause_range=(0.8, 1.8), max_pause=3):
                 '//button[.//span[text()="Load more results"]]'
             )
             if load_more.is_displayed():
-                print("🧩 Found 'Load more results' button — clicking")
+                listings = driver.find_elements(
+                    By.CSS_SELECTOR, 'div[data-testid="property-card"]'
+                )
+                print(f"Clicking 'Load more' with {len(listings)} listings")
                 driver.execute_script("arguments[0].click();", load_more)
                 time.sleep(random.uniform(2, max_pause))
         except:
             pass
+
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            same_height_count += 1
+        else:
+            same_height_count = 0
+
+        last_height = new_height
 
         listings = driver.find_elements(
             By.CSS_SELECTOR, 'div[data-testid="property-card"]'
@@ -124,12 +140,19 @@ def human_like_scroll(driver, pause_range=(0.8, 1.8), max_pause=3):
 
         if len(listings) >= search_number:
             break
-        
+
+        # In case Book.com doesn't let us view all listings on main page
+        # then exit and update with scraped no. of properties
+        if same_height_count >= 3:  
+            print("No more listings loading. Adjusting search_number...")
+            search_number = len(listings)
+            break
+
     return listings[:search_number]
 
 
 listings = human_like_scroll(driver)
-print(f"✅ Final listings scraped: {len(listings)}")
+print(f"Final listings scraped: {len(listings)}")
 
 
 #------------------------------------------------------------------------------

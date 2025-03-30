@@ -5,26 +5,26 @@ Index,Title,Address,Headline Room Type,Cost (AUD),Review Score,# of Reviews
 4,Sage Melbourne Ringwood,Ringwood,Deluxe King Room,204,8.7,"1,417"
 5,Quest Bella Vista,Baulkham Hills,Studio Apartment,193,8.5,"1,598"
 6,Kryal Castle Ballarat,Ballarat,Budget Family Room – Sleeps 9,153,8.1,"1,769"
-7,Atura Blacktown,Blacktown,Atura King Room,179,8.1,"1,282"
-8,Bay Of Fires Apartments,St Helens,King Suite,322,8.7,"1,044"
+7,Bay Of Fires Apartments,St Helens,King Suite,322,8.7,"1,044"
+8,Atura Blacktown,Blacktown,Atura Twin Room,179,8.1,"1,282"
 9,ibis Brisbane Airport,Brisbane,Standard Twin Room,249,8.3,"14,108"
 10,Angel Sussurri,Yarramalong,King Room,300,9.0,172
 11,Low Head Pilot Station,Low Head,One Bedroom Cottage - Boatcrew East,358,8.8,564
 12,Aquarius Kawana,Kawana Waters,Superior Two Bedroom Apartment with Lake Views,297,8.6,"2,318"
-13,Lancemore Milawa,Milawa,Garden Sunset,358,8.6,420
+13,Lancemore Milawa,Milawa,Garden Sunset,374,8.6,420
 14,Dolphin Lodge Albany - Self Contained Apartments at Middleton Beach,Albany,One-Bedroom Apartment,232,9.0,"2,640"
 15,Whitsunday Sands Resort,Bowen,Ocean Kitchenette Queen Room,170,9.0,"1,607"
 16,Contour Hotel Katherine,Katherine,Standard Room,273,8.1,"1,363"
 17,Woomargama Motel,Woomargama,Double Room,122,8.9,"1,371"
-18,Mercure Kangaroo Island Lodge,American River,Superior Queen Poolview,237,8.2,501
-19,Holiday Inn Melbourne Airport by IHG,Melbourne,Standard Room,207,8.3,"9,551"
+18,Holiday Inn Melbourne Airport by IHG,Melbourne,Standard Room,207,8.3,"9,551"
+19,Mercure Kangaroo Island Lodge,American River,Superior Queen Poolview,237,8.2,501
 20,Mercure Sydney Rouse Hill,Kellyville,Superior King Room,215,8.8,"1,377"
 21,The Continental Hotel,Broome,King Terrace,229,8.2,"1,204"
 22,Beresford Estate,McLaren Flat,Suite,455,9.2,381
-23,Oaks Darwin Elan Hotel,"Darwin CBD, Darwin",Hotel Room,169,8.4,"3,334"
-24,Mineral Springs Hotel Hepburn,Hepburn Springs,Heritage Classic room,509,8.8,682
-25,Mantra Wollongong,Wollongong,Superior One-Bedroom Apartment,349,7.2,"1,621"
-26,The Albion Motel Castlemaine,Castlemaine,Queen Room,210,8.9,516
+23,Mineral Springs Hotel Hepburn,Hepburn Springs,Heritage Classic room,509,8.8,682
+24,Oaks Darwin Elan Hotel,"Darwin CBD, Darwin",Hotel Room,169,8.4,"3,334"
+25,Nightcap at Hotel Victor,Victor Harbor,Studio King,217,8.4,"1,296"
+26,Mantra Wollongong,Wollongong,Superior One-Bedroom Apartment,349,7.2,"1,621"
 27,"Hospitality Kalgoorlie, SureStay Collection by Best Western",Kalgoorlie,Standard Queen Room,175,7.7,"1,366"
 28,Port Arthur Motor Inn,Port Arthur,Double or Twin Room with Garden View,145,7.9,"1,485"
 29,Desert Palms Alice Springs,Alice Springs,Family Villa,180,8.2,"2,203"
@@ -33,14 +33,14 @@ Index,Title,Address,Headline Room Type,Cost (AUD),Review Score,# of Reviews
 32,Bicheno East Coast Holiday Park,Bicheno,One-Bedroom Cabin,119,8.2,"2,179"
 33,Clare Country Club,Clare,Superior Room,155,8.6,"1,127"
 34,Kingswood Motel,Tocumwal,Triple Room - Disability Access,143,7.6,594
-35,Rydges Kalgoorlie,Kalgoorlie,Executive One Bedroom Spa Garden View Apartment,350,8.2,"1,361"
+35,Rydges Kalgoorlie,Kalgoorlie,Executive One Bedroom Spa Garden View Apartment,329,8.2,"1,361"
 36,Gundagai Cabins & Tourist Park,Gundagai,Deluxe Queen Cabin,144,7.9,880
 37,Bega Motel,Bega,Deluxe King Room with Kitchenette,454,8.0,"1,046"
 38,Palm Beach Bed & Breakfast,Palm Beach,Deluxe Double Room with Balcony and Sea View,350,9.5,405
 39,Lakeview Motel and Apartments,Robe,Executive Twin Room,246,8.3,"1,418"
 40,Hospitality Esperance SureStay Collection by Best Western,Esperance,Standard Queen Room,329,8.1,"1,825"
 41,Up the Back,Bicheno,Two-Bedroom House,290,9.6,246
-42,Abode Murrumbateman,Murrumbateman,Queen Room,178,9.0,"2,384"
+42,Abode Murrumbateman,Murrumbateman,Queen Room,168,9.0,"2,384"
 43,Mission Beach Resort,Mission Beach,Superior Queen Room,222,8.1,"1,321"
 44,Hepburn at Hepburn,Hepburn Springs,One-Bedroom Villa,368,9.3,"1,237"
 45,The Oak & Anchor Hotel,Port Fairy,Queen Suite,444,9.0,"1,011"
@@ -49,3 +49,929 @@ Index,Title,Address,Headline Room Type,Cost (AUD),Review Score,# of Reviews
 48,Ramada Resort by Wyndham Shoal Bay,Shoal Bay,Standard Studio – No Views,209,8.3,"3,399"
 49,Carnarvon Central Apartments,Carnarvon,Apartment,180,8.2,679
 50,Redhill Cooma Motor Inn,Cooma,Standard Twin Room,137,7.6,"1,683"
+51,Spa Village Travel Inn,Moree,Superior Queen Room,170,7.5,"1,927"
+52,Daylesford Art Motel,Daylesford,Superior Suite,268,8.9,897
+53,Knotts Crossing Resort,Katherine,Standard Bungalow with Private External Bathroom,208,7.4,"2,004"
+54,Bowen Inn Motel,Lithgow,Deluxe Queen Room,171,8.7,977
+55,Townhouse Motel Cowra,Cowra,Budget Double Room,110,7.5,"1,048"
+56,Balranald Club Motel,Balranald,Deluxe King Suite,140,8.4,"1,067"
+57,Dalby Manor Motor Inn,Dalby,Queen Room,173,8.4,598
+58,Punthill Sunshine,Sunshine,Studio Apartment,190,9.0,156
+59,Kellys Beach Resort,Bargara,Eco Villa,244,8.0,"1,265"
+60,Maryborough City Motel,Maryborough,Double Room,130,8.1,955
+61,Oaks Port Stephens Pacific Blue Resort,Salamander Bay,Hotel Room - No Housekeeping,229,8.4,"4,944"
+62,Broken Hill Outback Resort,Broken Hill,King Room with Balcony,198,8.5,"1,822"
+63,The Bronte Boutique Hotel,Morpeth,Queen Room,343,9.0,329
+64,Comfort Inn May Park,Horsham,Deluxe Room,210,9.0,"1,485"
+65,Paxton Square Cottages,Burra,Studio Apartment,152,9.0,"1,218"
+66,Beaches on Lammermoor Apartments,"Lammermoor, Yeppoon",2 Bedroom Pool Facing Apartment,385,8.8,538
+67,Rydges Resort Hunter Valley,Lovedale,King Room,256,8.4,"3,565"
+68,Sleepy Hill Motor Inn,Raymond Terrace,Executive Queen-Non Pet Friendly,147,8.0,"1,860"
+69,Novotel Sunshine Coast Resort,Twin Waters,Queen Room with Garden View,346,7.3,"2,852"
+70,Punthill Tuggeranong,Tuggeranong,Studio Apartment,160,9.4,158
+71,Daydream Island Resort,Daydream Island,Resort King Room,487,7.9,"2,227"
+72,Tiny Escapes Cradle Valley,Moina,One-Bedroom Chalet - Wilderness Pepperberry,529,9.5,579
+73,Rydges Campbelltown,Campbelltown,Standard Queen Room,216,8.3,"1,781"
+74,Sea Lake Motel,Sea Lake,Twin Room,214,7.7,377
+75,Great Keppel Island Hideaway,Great Keppel,Budget Double Room,176,8.6,447
+76,Songbirds Rainforest Retreat,Mount Tamborine,Deluxe Villa,329,8.4,526
+77,Swansea Holiday Park Tasmania,Swansea,One-Bedroom Chalet,230,8.5,"1,479"
+78,Bayside Hotel,St Helens,Superior Triple Room - Non-Smoking,175,8.1,"2,421"
+79,Quest Campbelltown,Campbelltown,Studio,170,8.5,"1,261"
+80,The Albion Motel Castlemaine,Castlemaine,Queen Room,210,8.9,516
+81,Quality Inn Penrith Sydney,Penrith,Queen Suite with Sofa Bed,185,8.4,"1,862"
+82,Rydges Cronulla Beachside,Cronulla,Standard Studio,251,7.9,"1,266"
+83,Lake St Clair Lodge,Lake St Clair,Double or Twin Room - Wilderness,490,8.0,"1,246"
+84,Yarra Valley Lodge,Wonga Park,King Room with Lodge View,330,8.7,"1,796"
+85,Delatite Hotel,Mansfield,Basic Triple Room with Shared Bathroom,104,8.3,838
+86,Tasman Holiday Parks - Moama on the Murray,Moama,One-Bedroom Villa,170,8.8,986
+87,Carnarvon Motel,Carnarvon,Classic Double/Twin Room,190,8.0,"1,225"
+88,Drovers Motor Inn,Dalby,Standard Queen Room,215,9.1,513
+89,Kaneira Hotel,Culgoa,Budget Twin Room,100,7.5,82
+90,Proximity Waterfront Apartments,Redcliffe,One-Bedroom Apartment,384,8.8,"1,226"
+91,Colac Otway Caravan & Cabin Park,Colac,Standard Double Room,160,8.8,111
+92,Gateway Hotel by Nightcap Plus,Devonport,King Studio,168,8.4,"1,918"
+93,Pinnacle Holiday Lodge,Halls Gap,King Room - Disability Access,147,7.3,"1,573"
+94,Lithgow Workies Club Motel,Lithgow,Club King Room,242,9.2,823
+95,BIG4 Hobart Airport Tourist Park,Cambridge,Two-Bedroom Chalet,195,8.8,940
+96,Deniliquin Country Club Motor Inn,Deniliquin,King Room,165,8.5,747
+97,Crowne Plaza Alice Springs Lasseters by IHG,Alice Springs,Standard Room,219,8.3,"1,534"
+98,Rydges Geelong,Geelong,Superior Queen Room,200,7.9,"3,943"
+99,Motel Poinsettia,Port Augusta,Queen Room,138,7.9,895
+100,Miriam Vale Motel,Miriam Vale,Budget Double Room,115,7.6,456
+101,Grand Manor Motor Inn,Queanbeyan,Deluxe Queen Room,138,7.9,"1,726"
+102,Mariners Cove Waterfront Motel and Apartments,Paynesville,Queen Room,219,8.9,"1,259"
+103,Flotsam Seaside Studio Dunalley,Dunalley,Chalet,279,9.4,81
+104,Mid City Motel,Mount Gambier,Standard Queen Room,150,7.3,"1,733"
+105,Grand Central Motel,Mount Gambier,Queen Room,150,7.3,"1,786"
+106,Flinders Landing Apartments,"Melbourne CBD, Melbourne",One-Bedroom Apartment,284,8.0,"3,216"
+107,Bayview Geographe Resort Busselton,Busselton,Studio Villa,220,8.4,"3,998"
+108,Nightcap at Archer Hotel,Nowra,King Studio,155,8.2,"1,837"
+109,Mandurah Quay Resort,Mandurah,Two-Bedroom Villa with Spa Bath,320,8.8,"1,329"
+110,Mandurah Foreshore Motel,Mandurah,Queen Room,180,7.9,"1,424"
+111,Motel Mount Gambier,Mount Gambier,Standard Queen Room,108,7.1,"2,001"
+112,Aston Motel Yamba,Yamba,Standard Twin Room,180,8.6,"1,551"
+113,Burke and Wills Motor Inn,Moree,Standard Double Room,114,7.2,798
+114,Camden Valley Inn,Camden,Standard Twin Room,240,9.2,"1,833"
+115,YHA Fremantle Prison,Fremantle,Small Twin Room with Shared Bathroom - Prison Cell,141,8.3,"1,885"
+116,Travelodge Hotel Hobart Airport,Cambridge,King Room,242,8.2,"2,601"
+117,Singleton Valley Accommodation,Singleton,Double Room - Disability Access,168,8.5,697
+118,24HourCheck-In- Bridgewater Motel-Victoria-Australia,Bridgewater-on-Loddon,Large Twin Room,182,8.0,166
+119,Tullah Lakeside Lodge,Tullah,Powered Caravan Site with Shared Bathroom - No Bed Provided,45,8.0,"1,402"
+120,Ramada By Wyndham Marcoola Beach,Marcoola,Hotel Room,235,7.6,"3,336"
+121,Lufra Beachside Hotel,Eaglehawk Neck,Superior Double Room with Ocean View,176,8.1,"1,601"
+122,Mercure Penrith,Penrith,Standard Queen Room,212,8.3,"2,606"
+123,Dandaloo Gardens,Arcadia,One-Bedroom Chalet (Unit 1),165,8.9,740
+124,Losari Retreat,Margaret River Town,Garden Spa - Two-Bedroom Villa with Hot Tub,927,9.8,284
+125,Vibe Hotel Sydney Darling Harbour,"Sydney CBD, Sydney",Double or Twin Room,350,8.3,"4,489"
+126,Coral Tree Inn,Cairns,Standard Double or Twin Room,169,8.0,"3,590"
+127,Quality Hotel Wangaratta Gateway,Wangaratta,Queen Suite,250,9.3,"1,543"
+128,Oaks Sunshine Coast Oasis Resort,"Golden Beach, Caloundra",Executive King Room,262,7.9,"5,143"
+129,Risby Cove Boutique Hotel,Strahan,Luxury Accessible Suite,695,8.3,636
+130,BIG4 Tassie Getaway Park Stanley,Stanley,Motel Room,164,8.8,"1,021"
+131,Dalby Parkview Motel,Dalby,Queen Suite,170,8.4,875
+132,Platypus Park Country Retreat,Bridport,One-Bedroom Apartment,175,8.4,227
+133,Abode Malua Bay,Malua Bay,Hinterland King Studio,538,8.7,"1,930"
+134,Hospitality Geraldton SureStay Collection by Best Western,Geraldton,Queen Room,208,8.2,"2,243"
+135,Bundanoon Hotel,Bundanoon,Queen Room with Shared Bathroom,160,7.8,"1,188"
+136,The Grampians Motel,Halls Gap,Standard Queen Motel Room,154,8.1,"1,520"
+137,Stanley Seaview Inn,Stanley,Standard Twin Room,190,8.7,"1,412"
+138,Country Road Motel St Arnaud,Saint Arnaud,Queen Room,120,8.1,452
+139,Rydges Norwest Sydney,Baulkham Hills,Superior Room with 2 Double Beds,9999,7.5,"1,738"
+140,Quest Cronulla Beach,Cronulla,King Studio,242,8.2,"1,054"
+141,Mallacoota Hotel Motel,Mallacoota,Standard Queen Room,198,7.7,"1,177"
+142,Rosslyn Bay Resort Yeppoon,"Rosslyn, Yeppoon",Budget Courtyard,155,8.3,"1,555"
+143,Port Douglas Apartments - Adults Only Oasis,"Four Mile Beach, Port Douglas",One-Bedroom Apartment,297,9.2,280
+144,Heron Island,Heron Island,Turtle Room,10209,8.3,801
+145,Yallingup Forest Resort,Yallingup,One-Bedroom Chalet,334,8.7,694
+146,Isis Motel Scone,Scone,Budget Double Room,125,8.4,736
+147,Airlie Beach Magnums - Adults Only,Airlie Beach,Double Room with Shared Bathroom - Adults Only,119,8.1,"3,677"
+148,Falls Mountain Retreat Blue Mountains,Wentworth Falls,Studio Apartment - Loft (2 Guests),199,8.7,"2,664"
+149,Highway Inn Motel,Hay,Standard Queen Room,161,8.7,783
+150,Moonlight Bay Suites,Broome,One Bedroom Suite,270,9.0,978
+151,Be. Fremantle,Fremantle,Studio,303,8.7,"1,819"
+152,Kiama Motel 617,Kiama,Queen Suite,178,8.3,"1,920"
+153,Altona Motel,Uralla,Double Room,134,8.6,502
+154,Parklands Resort,Mudgee,Mudgee Retreat – Lux Tent,999,8.2,"1,584"
+155,The Clairfield Hotel,Mudgee,Olive Queen Room,255,8.8,371
+156,Breakfree Port Pirie,Port Pirie,Standard Queen Room,110,8.5,830
+157,Leura Gardens Resort,Leura,Family Room with Garden View,999,7.9,"2,054"
+158,Ned Kelly's Motel,Maryborough,Compact Queen Van Room,120,7.4,717
+159,"Amaroo On Mandalay, Magnetic Island",Nelly Bay,Standard Studio,180,7.7,"1,192"
+160,Maffra Motor Inn,Maffra,Superior Twin Room,150,8.5,580
+161,Colonial Terrace Motor Inn,Raymond Terrace,Standard Queen Room,185,8.1,"1,370"
+162,Jetty Motel The Entrance,The Entrance,Standard Queen Room,230,7.7,907
+163,Carlton Suites,Goulburn,Deluxe Queen Room,115,7.6,"1,828"
+164,Citadines on Bourke Melbourne,"Melbourne CBD, Melbourne",Deluxe Studio Apartment,225,8.5,"8,658"
+165,Citadines Connect Sydney Airport,"Mascot, Sydney",Economy,167,8.4,"10,721"
+166,Crowne Plaza Terrigal Pacific by IHG,Terrigal,Standard Room,385,8.5,"2,849"
+167,InterContinental Hayman Great Barrier Reef,Hayman Island,Classic King Room with Courtyard View,768,8.7,345
+168,Alamanda Palm Cove by Lancemore,Palm Cove,1 Bedroom Pool View Apartment,355,8.5,281
+169,Thornton Executive Hotel,Maitland,Deluxe King Room,156,7.7,"2,040"
+170,Safari Lodge,Cape Tribulation,Standard Double Room with Shared Bathroom,185,8.7,500
+171,Kennington Units,Kennington,Two-Bedroom Apartment,373,8.3,82
+172,Emporium Hotel South Bank,"South Brisbane, Brisbane",Vista King Suite,409,9.1,"3,303"
+173,Holiday Inn Werribee by IHG,Werribee,Standard King Room - Disability Access,187,8.7,"1,757"
+174,A by Adina Sydney,"Sydney CBD, Sydney",Studio King,450,8.7,"5,176"
+175,RACV Cape Schanck Resort,Cape Schanck,Ocean View Room,398,8.8,"1,437"
+176,Lake Forbes Motel,Forbes,Queen Room,120,6.6,"1,068"
+177,Tasman Holiday Parks - St Helens,St Helens,Bungalow (Exclusive Use),129,9.0,"1,678"
+178,Port Campbell Parkview Motel & Apartments,Port Campbell,Queen Room,287,8.8,"1,565"
+179,Temora Motel,Temora,Standard Triple Room,139,7.6,418
+180,The Waterfront Wynyard,Wynyard,Family Room,145,9.0,"1,053"
+181,Fitzroy Island Resort,Fitzroy Island,Standard Double or Twin Room,273,7.0,792
+182,Beagle Hotel,Katherine,Budget Double Room,170,7.3,589
+183,Dayboro Cottages,Dayboro,Cottage with Garden View,253,9.2,170
+184,Bushman's Motor Inn,Lithgow,Superior Queen Room,207,8.9,783
+185,The Wine Vine Hotel,Tanunda,Deluxe Queen Room,170,8.1,"1,379"
+186,The Formby Hotel,Devonport,Family Room (4 Guests) - Formby,126,7.9,"1,691"
+187,Barossa Weintal Hotel,Tanunda,Superior Room,189,8.4,"1,304"
+188,Bridge Hotel,Smithton,Budget Double Room,84,8.0,977
+189,Lorikeet Holiday Park,Arrawarra,Two-Bedroom Villa - Wallaby,194,7.9,953
+190,Bermagui Beach Hotel,Bermagui,Classic King (Motel),199,9.1,"1,434"
+191,The Lighthouse Hotel,Ulverstone,Queen Room,144,8.8,"1,444"
+192,Robe Holiday Park,Robe,Bungalow,160,8.9,322
+193,The Sebel Mandurah,Mandurah,Superior King Room,242,8.5,"2,103"
+194,Marina Hotel,Port Lincoln,Standard Suite,210,8.9,631
+195,Rydges Sydney Central,"Sydney CBD, Sydney",Double or Twin Room with Balcony,242,8.1,"5,233"
+196,A place to be,Kurmond,Deluxe Double Room with Balcony,415,9.4,82
+197,Chittaway Motel,Tuggerah,Deluxe Queen Room,162,8.5,"1,182"
+198,Captain Cook Holiday Park,Adventure Bay,Two-Bedroom Cabin,219,8.4,638
+199,Quality Hotel Melbourne Airport,Melbourne,Superior Studio Room,169,8.4,"3,583"
+200,Black Swan Waterfront Motel,Swansea,Standard Double Room,170,8.3,"1,087"
+201,"The Beachcomber Hotel & Resort, Ascend Hotel Collection",Toukley,Essential Queen with Two Queen Beds (No Window),194,8.7,"1,821"
+202,Civic Motor Inn,Cowra,Standard Double Room,135,7.4,581
+203,Avani Melbourne Box Hill Residences,Box Hill,One-Bedroom Suite,249,8.9,"1,453"
+204,Tweed Heads Vegas Motel,Tweed Heads,Deluxe Queen Room,171,8.6,"1,048"
+205,YHA Blue Mountains Katoomba,Katoomba,Family Room with Shared Bathroom,120,8.5,"2,322"
+206,Port Douglas Peninsula Boutique Hotel - Adults Only Haven,"Four Mile Beach, Port Douglas",Pool View Suite - Free Wifi & Parking,420,8.7,322
+207,Narellan Motor Inn,Narellan,Standard Twin Room,173,7.8,934
+208,The Gladstone,Gladstone,Deluxe Queen Room,132,8.5,"1,531"
+209,Metro Hotel Miranda,Miranda,Balcony Room,218,7.9,"1,685"
+210,Oaks Sunshine Coast Seaforth Resort,Alexandra Headland,One-Bedroom Apartment,194,8.7,"2,213"
+211,Novotel Barossa Valley Resort,Rowland Flat,Standard King Studio,290,8.4,"1,175"
+212,Pullman Sydney Penrith,Penrith,Superior Room with Two Double Beds,270,9.2,"1,224"
+213,Harrigan's Hunter Valley,Pokolbin,Studio,144,7.8,"3,430"
+214,Docklands Private Collection - NEWQUAY,"Docklands, Melbourne",Deluxe Studio,190,8.7,"2,086"
+215,The Fernglen Forest Retreat,Mount Dandenong,Spa Cottage,424,8.6,159
+216,Flinders Ranges Motel - The Mill,Quorn,Standard Queen Room,129,8.9,522
+217,Holiday Inn Express & Suites Sunshine Coast by IHG,Maroochydore,Standard Queen Room - Free Breakfast,239,8.4,"3,072"
+218,K - Town Hotel,Katherine,Deluxe Double Room (2 Adults + 1 Child),194,8.0,449
+219,William Macintosh Motor Lodge,Naracoorte,Standard Double Room,149,8.0,"1,252"
+220,H on Mitchell Apartment Hotel,"Darwin CBD, Darwin",Studio Room,190,8.7,"1,471"
+221,Territory Manor Motel & Caravan Park,Mataranka,Budget Double Room,143,7.4,728
+222,The Sebel Twin Waters,Twin Waters,Two-Bedroom Apartment,378,8.5,288
+223,Causeway 353 Hotel,"Melbourne CBD, Melbourne",Deluxe King Room,310,8.2,"9,233"
+224,Sequoia Lodge,Crafers,One-Bedroom Suite,1899,9.8,38
+225,Surf Beach Motel Port,Port Macquarie,Budget Queen Room - Street Parking,155,8.5,"5,388"
+226,Winston Cottage,Palmwoods,Queen Room with Balcony,279,8.3,165
+227,Oaks Nelson Bay Lure Suites,Nelson Bay,Hotel Room,349,8.4,"2,661"
+228,Albert Park Motor Inn-KING BEDS-POOL-SHADED PARKING,Longreach,Deluxe Family Room,180,7.8,453
+229,Esplanade Hotel Fremantle - by Rydges,Fremantle,Superior Queen Room,260,7.7,"5,533"
+230,Castlereagh Motor Inn,Gilgandra,Standard Queen Room,115,8.4,831
+231,Lake Bolac Motel,Lake Bolac,Queen Room,130,9.5,160
+232,The Argent Motel,Broken Hill,Standard Queen Room,126,8.1,"1,120"
+233,Hunter Gateway Motel,Maitland,Deluxe Queen Room,152,7.8,"1,032"
+234,The Dingley Hotel,Dingley,King Room,194,8.9,"1,185"
+235,Whyalla Playford Apartments,Whyalla,One-Bedroom Apartment,199,9.2,286
+236,Bay 10 - Suites and Apartments,Port Lincoln,Guest Room (25 square metres),156,8.7,574
+237,Quest Portland,Portland,Hotel Room,305,8.6,720
+238,Station Motel,Parkes,Executive King Room,190,8.5,891
+239,Fraser Island Retreat,K'gari Island (Fraser Island),One-Bedroom Bungalow,341,8.1,433
+240,Value Suites Penrith,Penrith,Queen Suite,140,8.4,"1,655"
+241,Creswick Motel,Creswick,Standard Queen Room,190,8.8,423
+242,Travelway Motel,Port Pirie,Standard Queen Room,149,7.4,404
+243,The Marker Apartments Melbourne,"West Melbourne, Melbourne",1 Bedroom Premier Apartment,674,8.8,"2,451"
+244,Corrigans Cove,Batemans Bay,Studio with Bay View,249,8.1,"1,830"
+245,Ruby's Cottage Farm Stay,Port Arthur,Two-Bedroom Villa,260,9.5,303
+246,TRYP Adelaide by Wyndham,"Adelaide CBD, Adelaide",Deluxe King Hotel Room,225,8.7,"2,522"
+247,Rendezvous Hotel Melbourne,"Melbourne CBD, Melbourne",Commerce Queen Room,719,8.2,"8,382"
+248,Phillip Island Park Lane Holiday Park,Cowes,Modern Studio Cabin,179,8.5,626
+249,Kaloha Holiday Resort Phillip Island,Cowes,Deluxe Queen Room,239,8.1,"1,427"
+250,Castle Motel Bairnsdale,Bairnsdale,Standard Queen Room,120,7.6,895
+251,Punthill Norwest,Baulkham Hills,Studio Apartment,250,8.3,"1,386"
+252,The Richmond Arms Hotel,Richmond,Two-Bedroom Unit,999,7.9,932
+253,The Apple Inn,Batlow,Standard Double or Twin Room,120,8.3,358
+254,Kermandie Hotel,Port Huon,Budget Double Room,140,8.4,956
+255,Quest Williamstown North,Williamstown,One-Bedroom Apartment,436,8.6,"1,036"
+256,Quest Alice Springs,Alice Springs,Studio Apartment,249,8.2,458
+257,Bundanoon Country Inn Motel,Bundanoon,Queen Room,119,8.0,"1,064"
+258,Lithgow Motor Inn,Lithgow,Deluxe Queen Room,161,7.1,490
+259,Comfort Inn & Suites King Avenue,Sale,Deluxe Queen Suite,155,8.6,718
+260,Western Downs Motor Inn,Miles,Executive Queen,159,8.9,568
+261,Port Lincoln Beachfront Apartments,Port Lincoln,One-Bedroom Apartment,240,9.4,363
+262,Oaks Gladstone Grand Hotel,Gladstone,King Studio,144,8.7,"2,423"
+263,Mercure Goulburn,Goulburn,Superior Queen Room,179,8.6,"2,198"
+264,Ramada Resort by Wyndham Golden Beach,"Golden Beach, Caloundra",Studio with Ocean View,219,8.2,"2,272"
+265,Margaret River Resort,Margaret River Town,King Pub Room,227,8.3,"1,951"
+266,DoubleTree by Hilton Alice Springs,Alice Springs,King Room - Mobility Access,239,8.1,995
+267,The Canopy Rainforest Treehouses & Wildlife Sanctuary,Tarzali,One-Bedroom Chalet,339,9.0,276
+268,Jervis Bay Motel,Huskisson,Queen Room - Lower Level,229,8.4,"2,060"
+269,Mountain View Country Inn,Deloraine,Small Budget Twin Room,115,7.5,887
+270,NRMA Sydney Lakeside Holiday Park,Narrabeen,Standard Studio,203,8.2,950
+271,Ingenia Holidays Torquay Australia,Torquay,Bungalow Cabin (No Bathroom),132,8.2,"1,397"
+272,Foothills,Lilydale,Standard King Room,168,8.6,596
+273,Black Gold Motel,Wallerawang,Executive Queen Room,196,9.1,799
+274,Cathedral Motor Inn,Bendigo,Standard Queen Room,162,8.7,"2,053"
+275,Ramada Hotel & Suites by Wyndham Ballina Byron,Ballina,Hotel Spa Room,270,8.7,"1,464"
+276,The Lane Retreat,Pokolbin,Studio Retreat,323,9.4,762
+277,NRMA Bowen Beachfront Holiday Park,"Queens Beach, Bowen",Two-Bedroom Family Villa,187,8.8,503
+278,Golden Sands Motor Inn,Forster,Standard Double Room,150,7.9,"1,441"
+279,Nightcap at Ferntree Gully Hotel Motel,Fern Tree Gully,Studio Queen and Single,126,8.3,930
+280,Mirage Whitsundays,Airlie Beach,One-Bedroom Apartment - Disability Access,425,8.8,"2,308"
+281,Hotel Settlers,Biloela,Studio Cabin,132,8.5,235
+282,The Beach Motel Hervey Bay,"Torquay, Hervey Bay",Standard Room - Ground Floor,159,8.2,"3,722"
+283,Caboolture Riverlakes Boutique Motel,Caboolture,Studio Superior 2,226,8.6,"1,168"
+284,Finley Motel,Finley,Queen Room,129,7.9,299
+285,The Richmond Hotel - Adelaide,"Adelaide CBD, Adelaide",Standard King Room,189,8.1,"1,650"
+286,Mantra Melbourne Epping,Epping,Hotel Room,180,8.8,"2,307"
+287,Russell Falls Holiday Cottages,National Park,One-Bedroom Apartment,299,8.9,793
+288,Mountain Heritage Hotel,Katoomba,Heritage Room,229,8.4,"2,981"
+289,Bairnsdale Town Central Motel,Bairnsdale,Queen Room,135,7.2,693
+290,Camperdown Cascade Motel,Camperdown,Deluxe Queen Room,115,8.6,397
+291,The Imperial Hotel,Murwillumbah,Queen Room,164,8.3,"1,443"
+292,Nightcap at Queens Beach Hotel,"Queens Beach, Bowen",Studio Queen,172,8.1,840
+293,Cowra Motor Inn,Cowra,Budget Double or Twin Room,134,6.7,461
+294,Heathcote Inn,Heathcote,Deluxe Double or Twin Room,170,7.4,326
+295,Cradle forest inn,Moina,Deluxe Suite,223,8.5,"1,180"
+296,Pelicans Albany Middleton Beach,Albany,Executive One-Bedroom Apartment,300,8.8,"1,548"
+297,Villa Noosa Hotel,Noosaville,Economy Queen and Single Room,186,7.2,"1,445"
+298,Mercure Sunshine Coast Kawana Waters,Kawana Waters,Standard King Room,162,8.3,"2,022"
+299,Seahorse Motel Cowes,Cowes,Standard Double Room,190,8.7,"1,592"
+300,Barrington Riverside Cottages,Barrington,Villa with Garden View,330,8.6,161
+301,Nightcap at Blue Cattle Dog Hotel,Rooty Hill,Queen Studio,153,7.6,"1,131"
+302,Tasman Holiday Parks - Geelong,Geelong,Standard Cabin (1BR),170,8.1,"2,825"
+303,Quest Frankston,Frankston,Studio,279,7.8,917
+304,Sage Hotel Wollongong,Wollongong,Deluxe Queen Room,216,8.0,"3,168"
+305,Civic Motel Grafton,Grafton,Twin Room,158,8.1,468
+306,The Beach Townhouse,Hawks Nest,Four-Bedroom Townhouse - 3,619,9.2,42
+307,Wildes Hotel Kangaroo Valley,Kangaroo Valley,Morton Room,388,8.6,867
+308,Myrtleford Hotel,Myrtleford,Double Room with Balcony,150,8.9,395
+309,Central Wangaratta Motel,Wangaratta,Standard Double Room,125,7.8,863
+310,Rydges Ringwood,Ringwood,Classic King Room,250,8.9,993
+311,Leichhardt Hotel Motel Cloncurry,Cloncurry,Deluxe Double or Twin Room,148,8.4,338
+312,Hawkesbury Race Club Motel,Windsor,Standard Queen Room,178,8.7,"1,113"
+313,SureStay Hotel by Best Western The Clarence on Melville,Albany,Queen Room,142,7.8,"1,868"
+314,The Pacific House,"Woolloomooloo, Sydney",Double Room with Shared Bathroom,206,8.4,"3,257"
+315,"Astina Suites, Penrith",Penrith,Standard One-Bedroom Suite,278,9.3,"1,582"
+316,Touchwood Cottages,Stanley,Deluxe Twin Room,194,8.4,484
+317,Hotel Blue & Cottages Katoomba,Katoomba,Queen Room,250,7.5,"1,890"
+318,Ramada Resort by Wyndham Port Douglas,"Four Mile Beach, Port Douglas",Standard King Room,349,8.3,"1,364"
+319,Burke and Wills Hotel Toowoomba,Toowoomba,Business Queen Room,249,8.9,"2,327"
+320,Nightcap at Ocean Beach Hotel,Umina,Queen Studio,187,8.1,843
+321,Boathouse Resort Studios and Suites,Blairgowrie,Deluxe Suite with Free Parking and Wifi,269,9.1,"1,656"
+322,The Tanunda Club Guest Suites,Tanunda,Deluxe Double Room,230,9.1,595
+323,Echuca Motel,"Echuca, Echuca",Double Room,125,7.5,"1,286"
+324,Vibe Hotel Melbourne Docklands,"Docklands, Melbourne",Guest Room King,327,8.2,"4,383"
+325,Charlton Motel,Charlton,Standard Double Room,150,7.9,296
+326,Quest Cheltenham,Cheltenham,Studio Apartment,347,8.5,442
+327,Beachfront Voyager Motor Inn,Burnie,Executive Suite,218,8.2,"1,029"
+328,Salamanca Galleria Apartments,"Hobart CBD, Hobart",the BALMORAL KING - INTERNAL SKYLIGHT ROOM 8,284,8.8,489
+329,Francis Phillip Motor Inn and The Lodge,Singleton,Budget Double Room,190,8.6,290
+330,Discovery Parks - Roxby Downs,Roxby Downs,Economy Motel Room,115,8.2,162
+331,Gaol House Cottages,Bicheno,The Stables,268,8.9,419
+332,Rambutan Resort,Townsville,Queen Room,118,8.2,"2,798"
+333,Mitchell River Tavern,Bairnsdale,Budget Double Room,138,8.3,635
+334,The Olive Tree Motel,Morwell,Deluxe Queen Room,139,8.7,998
+335,Merivale Motel,Tumut,Double Room,155,8.5,404
+336,Debbie's Place,Rainbow Beach,Standard Queen Room,190,9.5,"1,109"
+337,Aquarius Apartments Mollymook,Mollymook,One-Bedroom Apartment with Sea View,220,8.5,514
+338,The Sands by Nightcap Plus,Carrum Downs,Queen Studio,192,8.9,"1,545"
+339,Blayney Central Motel,Blayney,Suite with Spa Bath,155,8.7,350
+340,Best Western Mill Park Motor Inn,Morang,Deluxe Queen Room,154,7.9,"1,164"
+341,Country Comfort Amity Motel,Albany,Standard Queen and Single,160,8.1,"1,444"
+342,Winning Post Motor Inn,Mudgee,Queen Room,226,8.5,"1,085"
+343,Great Western Motel,Great Western,Double or Twin Room,110,7.5,446
+344,Leisure Inn Spires,Leura,Studio Apartment,399,8.2,"1,163"
+345,Rydges Sydney Airport Hotel,"Mascot, Sydney",King Room - Disability Access,328,8.2,"13,588"
+346,Adina Apartment Hotel Brisbane,"Brisbane CBD, Brisbane",Studio Room,223,8.8,"5,329"
+347,Squid's Ink Motel,Belmont,Standard Queen Room,134,7.7,"2,052"
+348,ibis Thornleigh,Thornleigh,Standard Queen Room,144,7.2,"1,632"
+349,Travellers Rest Motor Inn Swan Hill,Swan Hill,Queen Room,133,7.2,613
+350,Botanical Hamilton,Hamilton,Queen Room,144,7.2,656
+351,Rydges Bankstown,Bankstown,Superior Queen Room,247,7.3,"1,130"
+352,Yarra Gables,Healesville,Queen Room with Spa Bath,250,9.5,"1,046"
+353,The Select Inn Gosford,Gosford,Queen Room,190,8.3,"1,688"
+354,Kimberley Sands Resort,Broome,Garden View King Room,418,8.6,806
+355,Nightcap at Gateway Hotel,Corio,Studio with King and Single Bed,204,8.0,481
+356,Maya Maya at Mandoon Estate,West Swan,Deluxe King or Twin Room with Terrace,337,8.8,"1,059"
+357,Grand Tasman Hotel,Port Lincoln,Double Room,115,7.5,393
+358,YHA Port Elliot Beach House,Port Elliot,Double Room with Shared Bathroom,106,8.5,431
+359,Tyrian Albert Park Lake,"St Kilda Road, Melbourne",Studio Apartment,521,8.9,"1,779"
+360,Best Western Plus Buckingham International,Moorabbin,Compact Double,155,7.8,"1,352"
+361,Hill End Lodge,Hill End,Standard Double or Twin Room,125,8.0,509
+362,"Cosy and historical one bedroom apartment, 5kms from Castlemaine, 2 kms from the Calder",Barkers Creek,One-Bedroom Apartment,168,8.9,8
+363,Goulburn Motor Inn,Goulburn,Queen Room,147,8.6,"1,729"
+364,Ratho Farm,Bothwell,Studio Apartment,235,8.7,478
+365,Nightcap at Hume Hotel,Bankstown,Queen Studio,151,7.8,699
+366,Quincy Hotel Melbourne,"Melbourne CBD, Melbourne",Quincy Queen or Twin Room,212,8.5,"7,075"
+367,Sea Point on Trinity Beach,Trinity Beach,One Bedroom Classic Apartment,387,9.1,387
+368,Blue Lagoon Beach Resort,The Entrance,Two Bedroom Beachfront Cabin,412,8.2,"1,306"
+369,Walnut Cottage,Angaston,Two-Bedroom Cottage,260,9.6,105
+370,Ulverstone River Edge HolidayApartments,Ulverstone,Deluxe Queen Studio,200,9.5,392
+371,Quality Hotel Taylors Lakes,Taylors Lakes,Deluxe King Room,229,8.8,"1,069"
+372,Crest Motor Inn,Queanbeyan,Standard Double Room,124,7.7,"1,103"
+373,3107 Estate,Irymple,Bungalow with Garden View,130,8.5,72
+374,"Opal Inn Hotel, Motel, Caravan Park",Coober Pedy,Budget Double Room,125,7.4,649
+375,The Ultimo,"Sydney CBD, Sydney",Ultimo Queen Room,263,8.1,"4,231"
+376,Coolangatta Estate Shoalhaven Heads,Berry,Queen Room,212,7.6,752
+377,Ingenia Holidays Middle Rock,One Mile,Studio Cabin,169,8.6,"1,126"
+378,Vibe Hotel North Sydney,"North Sydney, Sydney",Standard Double or Twin Room,278,8.2,"3,411"
+379,Kalbarri Seafront Villas,Kalbarri,Studio Apartment,225,7.9,714
+380,Morphettville Motor Inn,Glenelg,Standard Double or Twin Room,180,8.4,"1,092"
+381,Sugar Country Motor Inn,Bundaberg,Executive Queen Room,190,8.4,"1,485"
+382,Nightcap at Caringbah Hotel,Caringbah,Double Studio,184,8.3,598
+383,Hotel TOTTO Wollongong,Wollongong,TOTTO Petite Queen,248,7.6,"2,866"
+384,Change Overnight,"Launceston CBD, Launceston",Studio - Disability Access,246,8.6,"1,439"
+385,Smart Motels Bert Hinkler,Bundaberg,Executive Twin Room,189,7.5,794
+386,Nightcap at Manhattan Hotel,Ringwood,Small Double Room,153,8.3,554
+387,The Rivulet,Hobart,Deluxe King Suite - Cartela,285,9.3,"1,126"
+388,Albury City Motel,Albury,Superior Queen Room,145,8.5,"2,888"
+389,Captain Cook Holiday Village 1770,Seventeen Seventy,Bungalow,173,8.2,747
+390,The Sebel Kiama,Kiama,Superior Room with One King Bed,296,8.1,949
+391,Quest Fremantle,Fremantle,Studio,278,8.5,"1,846"
+392,Lifestyle Apartments at Ferntree,Fern Tree Gully,One-Bedroom Apartment,185,9.0,524
+393,Kurrimine Beach Motel,Kurrimine Beach,Studio,170,7.8,241
+394,Cairns Colonial Club Resort,Cairns,Basic RESORT Room,169,8.1,"8,160"
+395,Old Market Inn,Port Fairy,Queen Suite,448,9.5,74
+396,Ingenia Holidays Lake Conjola,Conjola,Family Two-Bedroom Cabin,189,8.4,631
+397,The Gidgee Inn,Cloncurry,Queen Room,200,8.7,429
+398,Beachwalk Cottage,Sorrento,Three-Bedroom Cottage,470,8.7,36
+399,Old Maitland Inn - Rutherford,Maitland,Standard Double Room,159,8.3,955
+400,Mercure Bendigo Schaller,Bendigo,Standard Double Room with Balcony,169,8.3,"2,037"
+401,Pensione Hotel Perth,"Perth CBD, Perth",Petite Queen Room,183,8.2,"1,927"
+402,Chinchilla Downtown Motor Inn,Chinchilla,Deluxe Suite,165,8.9,440
+403,Adina Apartment Hotel Darwin Waterfront,"Darwin CBD, Darwin",Studio,231,8.0,544
+404,Arcoona Manor,Deloraine,King Suite,320,9.9,304
+405,Alpha Hotel Eastern Creek,Blacktown,Queen Room,179,7.9,"1,503"
+406,Wrest Point,Hobart,Budget Double Room - Motor Inn (3.5 Star),170,8.7,"6,687"
+407,Heritage Trail Lodge,Margaret River Town,Heritage Spa Suite,362,9.0,"1,103"
+408,Mt Warning Rainforest Park,Mount Warning,Budget Twin Room,190,8.3,108
+409,Barham Riverland Motel,Barham,Standard Queen Room,126,8.1,171
+410,Nightcap at The Cheeky Squire,Frankston,Studio Queen and Single,191,8.4,691
+411,Tocumwal Early Settlers Motel,Tocumwal,Queen Room with Two Queen Beds,178,8.7,319
+412,Anchor Geelong,Geelong,Studio,247,8.9,"1,245"
+413,Country 2 Coast Motor Inn Coffs Harbour,Coffs Harbour,Executive Queen Room (Not Pet-Friendly),419,7.0,"3,642"
+414,Kellraine Holiday Units,St Helens,One-Bedroom Apartment,220,7.8,813
+415,Lancemore Crossley St. Melbourne,"Melbourne CBD, Melbourne",Lancemore King Room,221,8.9,"2,385"
+416,Golden Harvest Motor Inn Moree,Moree,Deluxe Queen Room,155,7.7,727
+417,AAA Granary Accommodation,Promised Land,Studio - Loft,183,8.2,320
+418,Oros Hotel and Apartments,Oakleigh,Standard King Room,359,7.9,"1,491"
+419,Pure Chalet Thredbo,Thredbo,King Room,242,9.3,389
+420,Best Western Melbourne Airport,Melbourne,Superior Queen Room,235,8.5,"6,013"
+421,Ashwood Motel,Gosford,Basic Triple Room,147,8.2,"1,651"
+422,Clarion Suites Gateway,"Melbourne CBD, Melbourne",Studio,349,8.8,"5,355"
+423,Tailem Bend Riverside Hotel,Tailem Bend,Budget Double Room,135,6.6,292
+424,Oaks Cypress Lakes Resort,Pokolbin,One-Bedroom Villa,234,8.2,"3,956"
+425,Sovereign Park Motor Inn,Ballarat,Standard Double Room,250,9.1,"1,798"
+426,Hamptons on the Bay,Swansea,One-Bedroom Cottage,322,8.6,758
+427,Ikon Hotel,Burnie,King Studio,175,8.9,530
+428,Boulder Opal Motor Inn,Winton,Twin Room,180,8.2,314
+429,Quest Maitland,Maitland,Studio,186,8.7,783
+430,Nightcap at Springwood Hotel,Springwood,Queen Studio,209,8.1,559
+431,Strathmore Farm B&B,Mirboo North,Two-Bedroom Cottage,140,9.6,103
+432,Lure Bed and Breakfast,Normanville,Deluxe Queen Suite,240,9.5,137
+433,Nightcap at Millers Inn,Altona,Studio Queen & Single,209,8.2,257
+434,Sorrento Beach Motel,Sorrento,Deluxe Queen,267,8.5,989
+435,The Old Convent Dalwallinu,Dalwallinu,Queen Room with Shared Bathroom,132,8.4,401
+436,Aloft Boutique Accommodation,Strahan,Studio - Ground Floor,252,9.3,642
+437,Brighton Hotel Motel,Pontville,Superior Double Room,158,8.4,377
+438,The William Inglis Mgallery,Warwick Farm,Superior King Room,222,8.9,"1,268"
+439,Wolngarin Holiday Resort Noosa,Noosaville,Two-Bedroom Standard Unit,475,8.7,672
+440,Nightcap at Sandringham Hotel,Sandringham,Studio Queen & Single,188,8.1,422
+441,Tropical Palms Resort & 4WD Hire,Picnic Bay,Superior Queen Room,175,9.2,343
+442,Coral Inn Boutique Resort,Yeppoon,Small Twin Room,171,8.0,515
+443,Gardners Inn Hotel,Blackheath,Double Room with Shared Bathroom,115,7.8,885
+444,"The Quarters, Ascend Hotel Collection",Wamberal,King Room with No View - Larger Room - Non Smoking/Ground floor,221,8.8,862
+445,Blue Gum Hotel,Hornsby,Queen Room Highway,175,8.0,"1,081"
+446,The Jensen Potts Point,"Potts Point, Sydney",Double Room with Shared Bathroom,195,8.0,982
+447,Nightcap at Atherton Hotel,Atherton,Queen Studio,138,8.3,402
+448,Quest Bendigo Central,Bendigo,Studio,219,8.1,"1,502"
+449,Atura Dandenong,Dandenong,Deluxe Suite,999,8.4,"1,653"
+450,Ink Hotel Melbourne Southbank,"Southbank, Melbourne",The Pocket,259,8.4,"4,044"
+451,Freedom Shores Resort Airlie Beach,Airlie Beach,Queen Room with Sea View,325,9.2,593
+452,Beach Huts Middleton,Middleton,Noosa Studio,242,9.5,297
+453,13th Beach Golf Lodges,Barwon Heads,Deluxe Double or Twin Room with Golf Course and Lake View,350,9.2,360
+454,Punthill Knox,Wantirna South,Studio Apartment,152,7.0,382
+455,KUR-Cow farm escape 35 minutes from Cairns,Kuranda,Deluxe Queen Room,225,8.3,50
+456,Airlie Beach Eco Cabins - Adults Only,Airlie Beach,Gumnut Cabin - Adults Only,256,9.5,624
+457,Nightcap at Morwell Hotel,Morwell,Studio Queen,128,8.3,144
+458,Kimberley Hotel,Halls Creek,Standard Double Room,195,7.9,383
+459,Abbey Beach Resort,Busselton,Studio with Spa Bath,298,7.7,"1,596"
+460,Oaks Melbourne on William Suites,"Melbourne CBD, Melbourne",Studio Apartment with Park View & Balcony,996,8.1,"5,106"
+461,Pacific Bay Resort,Coffs Harbour,Terrace Hotel Room,212,7.9,"3,365"
+462,BreakFree Queanbeyan,Queanbeyan,Standard Queen Room,169,7.7,793
+463,Novotel Melbourne Glen Waverley,Glen Waverley,Standard Double Room,254,8.1,826
+464,Blue Lagoon Resort,Trinity Beach,Two-Bedroom Deluxe Apartment,625,8.4,941
+465,Bellingen Belfry Guesthouse,Bellingen,Double Room,89,8.2,516
+466,The View On Hannans Kalgoorlie,Kalgoorlie,Business Queen Room,169,7.6,363
+467,Amica Serviced Apartments,Orange,Queen Studio Free Wifi and Parking,589,8.8,170
+468,Nightcap at Pymble Hotel,Pymble,Queen Studio,181,7.9,669
+469,Golden Leaf Motel,Myrtleford,Standard Double Room,175,8.0,520
+470,Best Western Sanctuary Inn,Tamworth,Standard Queen Room,399,7.5,"1,931"
+471,Babinda Quarters,Babinda,Deluxe King Room,150,9.4,579
+472,Nightcap at Carlyle Hotel,Derwent Park,King Studio,158,7.6,378
+473,Lakeview Hotel Motel,Shellharbour,Queen Room,175,8.3,"1,155"
+474,Nightcap at Regents Park Hotel,Regents Park,Double Room,164,7.9,364
+475,Deep Blue Hotel & Hot Springs,Warrnambool,Queen Studio,214,8.0,"2,632"
+476,Majestic Roof Garden Hotel,"Adelaide CBD, Adelaide",Classic Room,237,8.6,"1,764"
+477,Sunrise at Penguin,Penguin,Three-Bedroom House,260,9.8,122
+478,The Cove Yamba,Yamba,Motel Room Garden View,347,8.4,902
+479,The Terang Motor Inn,Terang,Triple Room with Garden View,125,8.6,365
+480,Riverside Holiday Resort Urunga,Urunga,Two-Bedroom Apartment with Balcony,372,8.9,668
+481,Mercure Ballarat Hotel & Convention Centre,Ballarat,Lodge Room,184,7.6,"1,617"
+482,Oaks Port Douglas Resort,Port Douglas,King or twin Room with Garden View,420,7.3,"2,215"
+483,BIG4 Strahan Holiday Retreat,Strahan,Family Room with Balcony,177,7.9,816
+484,Tall Timbers Tasmania,Smithton,Double or Twin Room,266,8.6,644
+485,Lincoln Downs Resort Batemans Bay,Batemans Bay,Superior Queen Room,189,8.2,"1,168"
+486,Motel Yarrawonga,Yarrawonga,Queen Room,146,8.7,306
+487,Clifftop Apartments Portland Vic,Portland,Apartment with Sea View,189,9.7,481
+488,Argus Hotel Darwin,"Darwin CBD, Darwin",Superior King Room,132,8.3,"2,539"
+489,Acacia Rose Motor Inn,Barham,Family Room,150,9.0,205
+490,Mantra Mooloolaba Beach,Mooloolaba,One-Bedroom Suite,294,8.3,"3,055"
+491,Ramada Suites by Wyndham Zen Quarter Darwin,"Darwin CBD, Darwin",Executive One-Bedroom Apartment,189,8.4,"2,645"
+492,The Palms Motel,Chinchilla,Queen Room,165,8.8,336
+493,PARKROYAL Monash Melbourne,Clayton North,Superior Twin Room,208,8.5,"1,159"
+494,Daintree Crocodylus,Cow Bay,Jungle Double or Twin Room with Shared Bathroom,125,8.9,591
+495,Ramada Encore by Wyndham Whale Cove,"Urangan, Hervey Bay",One-Bedroom Apartment,266,8.1,"1,255"
+496,Sanctuary by Sirromet,Mount Cotton,Premium Pavillion with Free Parking,279,9.0,428
+497,Sydney Central Hotel Managed by The Ascott Limited,"Sydney CBD, Sydney",Standard King Room,277,8.3,"3,679"
+498,CQ Motel Gladstone,Gladstone,Queen Room,165,8.8,822
+499,Palms City Resort,"Darwin CBD, Darwin",Standard Hotel Room,180,8.7,"2,720"
+500,Shady Rest Motel,Gympie,Standard Queen Room,200,7.5,324
+501,Wine Country Tourist Park Hunter Valley,Nulkaba,Studio,158,8.2,87
+502,Quest Caroline Springs,Caroline Springs,Studio Apartment,197,8.1,"1,019"
+503,Mulwala Resort,Mulwala,Deluxe Suite,200,9.3,415
+504,Gateway Motel,Vineyard,Standard Twin Room,138,8.3,910
+505,Nightcap at Horse & Jockey Hotel Warrick,Warwick,Queen Studio,160,8.3,184
+506,Yarrawonga Riverlands Tourist Park,Yarrawonga,Studio,135,8.4,290
+507,The Beetson Hotel -formerly Gambaro Hotel,Brisbane,Queen Room,222,8.3,"1,926"
+508,Oaks Toowoomba Hotel,Toowoomba,Hotel Room,299,8.4,"2,236"
+509,Silver Hills Motel,Queenstown,Deluxe Queen Room,145,7.4,584
+510,Dooley's Tavern & Motel Springsure,Springsure,Queen Room,135,8.2,220
+511,Silk Pavilions Glamping,Mount Burrell,Tent,239,9.6,199
+512,Victoria House Motor Inn,Croydon,Queen Suite,214,9.1,337
+513,Hotel Gosford,Gosford,Twin Room with Shared Bathroom,137,8.0,"1,125"
+514,Garden Burees,Byron Bay,Studio Gallery,334,8.5,523
+515,Quest Penrith,Penrith,Studio Apartment,265,8.7,820
+516,Horsham Mid City Court Motel,Horsham,Standard Double Room,175,8.5,671
+517,Albert Motel,Moree,Queen Room,188,9.1,547
+518,Burwood East Motel,Burwood,Queen Room,148,8.7,369
+519,Crowne Plaza Hawkesbury Valley by IHG,Windsor,Standard Room,238,8.9,"1,067"
+520,Doncaster Apartments by Nightcap Plus,Doncaster,Studio,206,8.8,408
+521,Brookvale House Balingup,Balingup,One-Bedroom Cottage,210,8.9,314
+522,Queanbeyan Motel,Queanbeyan,Deluxe King Room,148,8.4,941
+523,Discovery Parks - Coogee Beach,Coogee,Economy Studio Room,174,8.1,649
+524,Maleny Views Motel,Maleny,Double Room with Mountain View,245,9.0,603
+525,Atherton Hinterland Motel,Atherton,Queen Room with Garden View,156,8.6,574
+526,Leeton Centre Motel,Leeton,Queen Room,160,8.8,272
+527,"Clarendon Cottage , near lowood",Clarendon,Large Double or Twin Room,200,9.7,25
+528,Nightcap at Sandbelt Hotel,Moorabbin,Queen Studio,147,8.4,758
+529,Helen's Homestead,Enfield,Standard Double Room with Shared Bathroom,120,9.4,188
+530,Kulin Erindale Apartments,Kulin,Two-Bedroom Apartment,293,9.3,135
+531,The Playhouse Hotel,Barraba,Queen Room,171,8.6,141
+532,Jackaroo Motel,Mareeba,Family Room,193,8.5,433
+533,Hyams Beach House B - Brand new lux beach oasis,Hyams Beach,Three-Bedroom House,1350,9.6,32
+534,Harrietville Hotel Motel,Harrietville,Standard Family Room,167,7.5,560
+535,Port Douglas Motel,Port Douglas,Queen Room,156,9.1,"1,442"
+536,Tweed Harbour Motor Inn,Tweed Heads,Deluxe Queen Room,202,8.6,637
+537,Travellers Rest Motel,Mundaring,Bush Retreat Overnight Unit - No Pet Friendly,175,7.6,341
+538,Ramada Hotel & Suites by Wyndham Cabramatta,Cabramatta,Superior King,161,7.6,921
+539,Yamba Central,Yamba,Standard Double Room with Shared Bathroom,178,8.4,"1,076"
+540,Chateau Elan At The Vintage,Pokolbin,"Villa Studio with Golf View, Free Parking and WIFI",219,8.7,"1,887"
+541,Mandala Ace Albany Hotel,Albany,Standard Room - Non Refurbished,145,8.0,"1,742"
+542,Tandara Hotel Motel,Sarina,Standard Double Room,116,7.7,506
+543,YHA Apollo Bay Eco,Apollo Bay,Queen Room with Shared Bathroom,116,8.5,"1,334"
+544,Nightcap at Matthew Flinders Hotel,Chadstone,Studio Queen & Sofa,160,8.5,673
+545,Panorama Retreat & Resort,Kalorama,Double Room,125,7.5,515
+546,Caves House Hotel & Apartments Yallingup,Yallingup,Deluxe Queen Suite with Spa Bath,335,8.5,"1,041"
+547,Miramare Gardens Boutique Accommodation,Terrey Hills,Deluxe King Room,330,8.5,481
+548,Coodlie Park Eco Retreat,Talia,Two-Bedroom Cottage,215,8.1,32
+549,Greenacres Motel,Corowa,Superior Queen Room,169,8.6,333
+550,Nightcap at Shoppingtown Hotel,Doncaster,Studio Queen and Single,159,8.0,462
+551,Echuca Nirebo Motel,"Echuca, Echuca",Double Room,127,8.0,"1,101"
+552,Mountain View Motor Inn & Holiday Lodges,Halls Gap,Queen Room,101,7.4,906
+553,Coragulac House Cottages,Alvie,Two-Bedroom House,160,8.8,90
+554,"YHA Grampians Eco, Halls Gap",Halls Gap,Double Room with Shared Bathroom,108,8.7,577
+555,Corowa Bindaree Holiday Park,Corowa,One-Bedroom Apartment,167,9.1,284
+556,Mildura Riverview Motel,Gol Gol,Deluxe Queen Room with No Pets Allowed,148,8.5,594
+557,The Chapel Deloraine,Deloraine,Two-Bedroom House,275,9.7,157
+558,"Hilton Garden Inn Albany, WA",Albany,Twin Room,270,8.5,"1,860"
+559,Hibiscus Lakeside Motel,Budgewoi,Standard Triple Room,170,8.0,"1,039"
+560,Spencer Street Apartments,"West Melbourne, Melbourne",Executive One-Bedroom Apartment with Balcony,3499,8.2,"1,676"
+561,Twelve Apostles Motel & Country Retreat,Princetown,Value Queen Bed Room (Non - Pet Friendly),266,7.7,717
+562,Aurea Hotel Perth Kings Park,"Perth CBD, Perth",Deluxe King Room,242,8.5,"1,702"
+563,Club Wyndham Airlie Beach,Airlie Beach,One-Bedroom Apartment,509,8.6,"1,474"
+564,Mercure Melbourne Doncaster,Doncaster,Standard Queen Room,169,8.4,"1,005"
+565,Coastal Bay Motel,Coffs Harbour,Queen Studio,161,7.8,"2,309"
+566,Quest Warrnambool,Warrnambool,Studio,210,8.8,"1,356"
+567,Ingenia Holidays Bonny Hills,Bonny Hills,Studio Cabin - Pet Friendly,169,8.9,757
+568,No 9 Springfield,"Potts Point, Sydney",Deluxe Double Room,187,8.1,"2,902"
+569,Glencoe Country Bed and Breakfast,Barrington,Brown Room,170,9.2,119
+570,Charlestown Executive Apartments,Newcastle,Studio Apartment,209,8.5,958
+571,Six Degrees Boutique Hotel,Albany,Double Room with Shared Bathroom,139,7.1,"1,507"
+572,Cleveland Estate,Lancefield,Standard Double or Twin Room,340,8.6,293
+573,Mercure Sydney Bankstown,Bankstown,Standard Queen Room,286,8.1,"2,134"
+574,"Adina Apartment Hotel Sydney, Darling Harbour","Sydney CBD, Sydney",Standard Studio,439,7.7,"3,900"
+575,Quality Hotel Manor,Mitcham,Standard Queen Room,135,7.6,583
+576,Beachport Motor Inn,Beachport,Standard Family Room,143,8.2,246
+577,Terralong Terrace Apartments,Kiama,One-Bedroom Apartment,247,8.5,811
+578,Oaks Casuarina Santai Resort,Kingscliff,Studio with Courtyard,352,8.8,"1,314"
+579,Customs House Hotel,"Hobart CBD, Hobart",Standard Queen Room,257,8.7,"3,747"
+580,Ronelle Cottage,Berrima,Two-Bedroom House,342,9.2,159
+581,Majestic Old Lion Apartments,"North Adelaide, Adelaide",One-Bedroom Apartment,213,8.4,"1,234"
+582,Quality Inn & Suites Traralgon,Traralgon,Standard Queen Room,122,7.1,634
+583,Narrabeen Sands Hotel by Nightcap Plus,Narrabeen,Studio Suite,261,8.4,901
+584,Wisemans Retreat,Wisemans Ferry,Deluxe Double or Twin Room with Balcony,153,7.8,667
+585,Majestic M Suites,"North Adelaide, Adelaide",One-Bedroom Suite,261,9.2,"1,941"
+586,Dixiglen Farm,Dixons Creek,Two-Bedroom Kookaburra Cottage,253,9.0,265
+587,Ingenia Holidays South West Rocks,South West Rocks,Standard Cabin - Pet Friendly,175,8.8,523
+588,Nightcap at Fairfield,Fairfield,Studio Queen,169,8.2,470
+589,Nightcap at Federal Hotel Mt Gambier,Mount Gambier,Family Studio,152,8.1,837
+590,Bairnsdale International,Bairnsdale,Classic Queen Room,208,8.8,654
+591,Hotel Challis Potts Point,"Potts Point, Sydney",Small Double Room,308,8.3,"2,307"
+592,Posthouse Motor Lodge,Goulburn,Deluxe Queen Room,168,8.7,"1,511"
+593,Tower Motel Marysville,Marysville,Deluxe King Suite,174,9.0,531
+594,Kianinny Bush Cottages,Tathra,Standard Cottage (6 Guests),238,9.3,473
+595,Inverloch Central Motor Inn,Inverloch,Queen Room,179,8.0,496
+596,Wine Country Motor Inn,Cessnock,Deluxe Queen Room,183,8.5,837
+597,Mantra Pavilion Hotel Wagga,Wagga Wagga,Hotel Deluxe - Non Pet Friendly,215,7.0,"1,338"
+598,Oxford on Otho,Inverell,Queen Studio,209,9.1,318
+599,The Gerald Apartment Hotel,Geraldton,Studio,239,8.2,989
+600,PARKROYAL Melbourne Airport,Melbourne,Standard King Room,385,8.5,"6,876"
+601,Ferns Hideaway Resort,Byfield,Cottage with Garden View,237,8.9,135
+602,Dog Rock Motel,Albany,Standard Queen Room,254,8.4,"1,651"
+603,Lucinda B&B,Latrobe,Double or Twin Room (B),160,9.2,319
+604,Boulevard Motor Inn,Mildura,Standard Queen Room,153,7.4,"1,600"
+605,Glynlea Motel,Horsham,Queen Room,139,8.0,587
+606,Busselton Motel,Busselton,Standard Queen Room,194,8.1,968
+607,Nightcap at Barkly Hotel,Mount Isa,Twin Room,167,7.5,417
+608,Abermain Hotel,Abermain,Standard Double Room with Shared Bathroom,120,7.9,77
+609,Iron Creek Bay Estate,Sorell,Pods,155,8.2,617
+610,Nomads Magnetic Island,Nelly Bay,Double Room Ensuite,252,7.5,"1,012"
+611,Lara Lodge,Lara,Studio,200,8.8,217
+612,Hillcrest Merimbula,Merimbula,King Room with Sea View,177,8.5,"1,481"
+613,The Florance,"Launceston CBD, Launceston",Queen Room,295,9.1,655
+614,Villa Howden,Margate,Deluxe Villa Suite,310,7.9,280
+615,Ruby Rose,Simpson,Queen Room with Garden View,155,9.2,234
+616,Captains Retreat Apartments and Cottages,Williamstown,Endeavour Room (Ensuite),240,9.2,424
+617,Absolute Beachfront Opal Cove Resort,Coffs Harbour,Twin Room,260,7.6,"3,122"
+618,Quest Midland,Midland Junction,Studio Apartment,275,8.5,"1,093"
+619,Atlantis Hotel Melbourne,"Melbourne CBD, Melbourne",Superior Queen Room - Disability Access,181,8.3,"10,379"
+620,Nightcap at Emerald Star Hotel,Emerald,Queen Studio,148,7.4,653
+621,Quest Werribee,Werribee,Studio Apartment,227,8.6,851
+622,Wallaroo Marina Sea Vu Apartment,Wallaroo,One-Bedroom Apartment,283,9.2,386
+623,Arthur River Spa Cottage,Arthur River,Three-Bedroom House,285,9.0,106
+624,Wintersun Gardens Motel,Bicheno,Standard Queen Room,186,7.9,963
+625,Kondari Hotel,"Urangan, Hervey Bay",King Studio,155,7.4,"1,731"
+626,Karma Suites - Heart of Montville,Montville,One-Bedroom Apartment with Garden View,450,9.7,73
+627,Jones On Wilson Boutique B&B,Burnie,Deluxe King Suite,150,8.9,308
+628,Kempsey Powerhouse Motel,Kempsey,Queen Room,168,8.2,537
+629,Nightcap at Colyton Hotel,Colyton,Small King Room,161,7.9,714
+630,Caroline Serviced Apartments Sandringham,Sandringham,One-Bedroom Premium Apartment,239,8.8,434
+631,Foreshore Hotel,Hobart,Standard Queen Room,128,8.3,689
+632,Nightcap at Seaford Hotel,Seaford,Studio King + Single Bed,181,7.6,561
+633,Athena Motel Apartments,Toowoomba,Standard Studio,139,8.7,"1,751"
+634,Punthill Caroline Springs,Caroline Springs,Studio Apartment,204,8.6,881
+635,The Billi Resort,Broome,Studio,286,9.1,452
+636,Holiday Inn Sydney St Marys by IHG,St Marys,Standard Room,190,9.0,"1,008"
+637,Sea World Resort,"Main Beach, Gold Coast",Resort Double Room,249,8.3,"6,119"
+638,Paradise On The Beach Resort,Palm Cove,Pool View Studio,275,8.0,892
+639,Berrigan Motel,Berrigan,Standard Queen Room,130,8.3,168
+640,Leisure Inn Pokolbin Hill,Pokolbin,Studio Queen Room,200,8.0,"1,738"
+641,Melaleuca Motel,Portland,Queen Room,129,7.5,405
+642,Gumnut Cottage Gippsland - Tiny Romantic Escape w King Bed Mountain Views,Seaton,One-Bedroom Villa,675,9.7,19
+643,The Arabella North Coast,Wollongbar,Deluxe Twin Room,180,8.9,433
+644,Hawley House,Port Sorell,Double Room with Garden View,200,8.7,358
+645,Oscar's On The Yarra,Warburton,Standard Double or Twin Room,249,9.4,520
+646,Rosevears Riverview Hotel,Rosevears,King Room with Balcony,229,8.9,717
+647,Abbotsleigh Motor Inn,Armidale,Budget Double Room,120,7.5,"1,004"
+648,Cilento Mooloolaba,Mooloolaba,Two-Bedroom Apartment- Queen Bed and King Bed,712,8.4,"1,199"
+649,Dairyman's Cottage,Lyndoch,Two-Bedroom Cottage,395,9.1,109
+650,Swansea Cottages & Lodge Suites,Swansea,Two-Bedroom Cottage - Pier,390,8.4,355
+651,Pecan Hill BNB,Toodyay,Deluxe Triple Room,207,9.4,223
+652,Art Series - The Chen,Box Hill,Queen Room,222,8.0,"1,047"
+653,York Cove Hotel,George Town,Deluxe King Room,150,7.3,64
+654,"Kennigo Hotel Brisbane, Independent Collection by EVT","Fortitude Valley, Brisbane",Kennigo Superior Queen,999,8.2,"2,491"
+655,Muswellbrook Motor Inn,Muswellbrook,Queen Room,184,8.4,229
+656,Punthill Oakleigh,Oakleigh,One Bedroom Apartment,178,7.4,513
+657,Mercure Sydney Blacktown,Blacktown,Standard Queen Room,145,7.3,"2,112"
+658,Discovery Parks - Kalgoorlie Goldfields,Kalgoorlie,Standard 1 Bedroom Cabin - Sleeps 2,156,7.8,576
+659,Discovery Parks - Dubbo,Dubbo,Economy Safari Tent,137,8.5,"1,432"
+660,Seabrook Hotel,Somerset,Standard Queen Room,126,8.3,781
+661,Overnight Reflections B&B,Fishing Point,Superior Queen Room,220,9.8,181
+662,Capitanos,"Darwin CBD, Darwin",Deluxe King Studio,142,7.9,"1,307"
+663,The Belmore Apartments Hotel,Wollongong,Executive Suite,221,8.5,"1,627"
+664,Moana Beach Tourist Park,Moana,Standard Bungalow,179,7.9,453
+665,Wedderburn Goldseeker Motel,Wedderburn,Double or Twin Room - Disability Access,146,8.0,209
+666,The Alison Randwick,"Randwick, Sydney",Double Room with Shared Bathroom,193,7.9,"1,030"
+667,Admiralty Inn,Geelong,Superior Double Room,180,7.7,"1,066"
+668,Cabarita Lodge,Cabarita,Deluxe Queen Room,170,9.0,235
+669,Nightcap at Wanneroo Tavern,Wanneroo,Queen Studio,226,7.9,372
+670,Rockhampton Serviced Apartments,Rockhampton,Studio,169,8.6,"1,804"
+671,Mollymook Shores,Mollymook,Queen Studio,245,8.6,850
+672,Nightcap at Sandown Park Hotel,Noble Park,Queen & Single Studio,175,8.4,428
+673,Nightcap at Empire Hotel,Gepps Cross,Queen Studio,143,8.2,189
+674,Argus Apartments Darwin,"Darwin CBD, Darwin",Executive One-Bedroom Apartment,200,9.2,"1,140"
+675,Holiday Inn Warwick Farm by IHG,Warwick Farm,Standard Room with Two Queen Beds,207,8.6,"1,021"
+676,Toorak Manor Hotel,Melbourne,Standard Queen Room,239,8.3,"1,439"
+677,Charlesworth Bay Beach Resort,Coffs Harbour,Resort Studio,260,7.9,"4,574"
+678,Charles sturt motor inn,Cobram,Double Room,149,8.3,80
+679,Valley View Motel,Murrurundi,Queen Room,136,7.6,154
+680,Coast Motel and Apartments,Port Noarlunga,Large Family Suite - Ground Floor,229,8.9,635
+681,Clarence River Bed & Breakfast,Grafton,Queen Room with Garden View,260,9.7,290
+682,Lancemore Mansion Hotel Werribee Park,Werribee,Heritage Queen Room,359,8.0,759
+683,The Boomerangs at Johanna on the Great Ocean Road,Johanna,Two-Bedroom Cottage - Tree Frog,600,9.4,97
+684,Victor Central Cottage Perfect Location,Victor Harbor,Two-Bedroom Apartment,483,9.5,87
+685,Royal On The Park,"Brisbane CBD, Brisbane",Deluxe King Room with City View,219,8.6,"7,168"
+686,ULTIQA Shearwater Resort,"Kings Beach, Caloundra",2 Bedroom Ocean View – No Air Conditioning,300,8.5,"1,438"
+687,Nightcap at Coolaroo Hotel,Coolaroo,King Studio,168,8.2,343
+688,Mercure Hunter Valley Gardens,Pokolbin,King Studio,144,8.0,"1,648"
+689,Burvale Hotel,Nunawading,Queen Studio,131,7.8,828
+690,Riverglen Chalets,Margaret River Town,One-Bedroom Chalet,249,9.0,674
+691,Tuncurry Motor Lodge,Tuncurry,Queen Room,160,7.4,757
+692,Woodbridge Hill Hideaway,Woodbridge,Black Heart Sassafras One-Bedroom Bungalow,385,9.5,357
+693,Nightcap at Monash Hotel,Clayton North,Queen Studio,178,8.1,550
+694,Forrest Hotel & Apartments,Canberra,Queen Room,114,7.7,"7,316"
+695,Quartz Cottage Geelong,Geelong,Three-Bedroom House,252,9.3,188
+696,Rye Hotel - One Four Nelson,Rye,Poolside King,241,8.4,757
+697,Punthill Williamstown,Williamstown,Studio Apartment,245,8.3,633
+698,Nightcap at Kawana Waters Hotel,Kawana Waters,Studio Queen & Single,194,8.0,659
+699,Campaspe Lodge,"Echuca, Echuca",Deluxe Queen Studio,187,8.7,905
+700,Criterion Warwick Hotel,Warwick,Double Room with Shared Bathroom,98,6.0,24
+701,Hyatt Regency Sydney,"Sydney CBD, Sydney",King Room,269,8.2,"8,637"
+702,Quest Bendigo,Bendigo,One-Bedroom Apartment,199,8.3,"1,297"
+703,Alexandra Hills Hotel,Cleveland,Garden King Room,252,8.5,908
+704,The Sebel Bowral Heritage Park,Bowral,King Studio,180,8.1,466
+705,Echo Point Discovery Motel,Katoomba,Garden View Queen Bed,150,7.9,"1,811"
+706,Comfort Inn Flinders on Main,Port Pirie,Standard Queen Room,164,7.6,519
+707,Adelaide Riviera Hotel,"Adelaide CBD, Adelaide",Standard Queen Room,149,8.1,"7,214"
+708,Arrow on Swanston,"Carlton, Melbourne",Deluxe King Apartment,205,7.3,"10,058"
+709,Nightcap at Marine Hotel Cardwell,Cardwell,Small Double Room,166,8.5,112
+710,The Victoria Hotel,"Melbourne CBD, Melbourne",Heritage Queen Room,365,8.2,"12,309"
+711,Littomore Suites Kingswood,Penrith,Studio Apartment,344,9.1,821
+712,Nightcap at Pritchards Hotel,Mount Pritchard,Queen Studio,171,8.1,429
+713,"Adina Apartment Hotel Melbourne, Pentridge",Melbourne,Standard Double or Twin Room,215,9.0,"2,538"
+714,Zebra Motel,Coffs Harbour,Deluxe Queen Room - Not Pet Friendly,185,8.0,"2,062"
+715,Hotel Clipper,Rockingham,Family Room,429,7.1,663
+716,Alexandra Place,Bendigo,Queen Room,152,8.6,"1,321"
+717,Darwin City Hotel,"Darwin CBD, Darwin",Queen Room,153,7.8,"3,088"
+718,Bicheno Garden Cottages,Bicheno,Pear Cottage,288,9.6,164
+719,Speewah Country Tavern,Speewah,Budget Double Room,145,7.2,178
+720,Burke & Wills Mt Isa,Mount Isa,Standard Queen Room,195,8.5,651
+721,Poinciana at Cooee Bay,Yeppoon,Glamping Tent - Couples,209,8.7,389
+722,Esplanade Hotel Busselton,Busselton,Superior Queen Room with Two Queen Beds,299,8.5,553
+723,Healesville Hotel,Healesville,Queen Room with Shared Bathroom,242,8.8,403
+724,"The StandardX, Melbourne","Fitzroy, Melbourne",King of Kings,279,9.4,670
+725,Airlie Beach Hotel,Airlie Beach,Courtyard King Room,332,8.2,"3,339"
+726,Mantra Club Croc,Airlie Beach,Resort Room,169,8.0,"3,017"
+727,Nightcap at St Albans Hotel,St Albans,King Studio with Free Welcome Drink for Two Guests,166,7.3,390
+728,Park Avenue - IKON Glen Waverley,Glen Waverley,One Bedroom Apartment,275,8.4,394
+729,Hunter Valley Motel,Cessnock,Deluxe Queen Room,115,7.6,603
+730,BIG4 Ingenia Holidays Phillip Island,Newhaven,1 Bedroom Park Cabin (No Private Bathroom – Shared Amenity Block),124,8.6,365
+731,Canterbury International Hotel,Forest Hill,Standard Queen Room,155,7.9,"1,138"
+732,Billabong Hotel Motel,Cunnamulla,Double or Twin Room,150,7.2,172
+733,Copacabana Shores,Copacabana,Studio with Spa Bath,349,7.7,412
+734,Nesuto Pennant Hills,Pennant Hills,Studio Apartment,177,7.4,504
+735,ibis Melbourne - Glen Waverley,Glen Waverley,Standard Queen Room,152,7.6,"1,772"
+736,Liberty One,"Footscray, Melbourne",One-Bedroom Apartment,416,7.7,"3,716"
+737,Pullman Magenta Shores Resort,The Entrance,Studio,309,7.8,"1,013"
+738,New Crown Hotel Motel,Hay,Queen Room,80,7.8,"1,552"
+739,Goonoo Goonoo Station,Tamworth,Shearers Quarters 4,205,9.5,"1,008"
+740,Great Southern Hotel Sydney,"Sydney CBD, Sydney",Standard Queen Room,169,8.0,"11,578"
+741,The Table Guest House,Greta,Deluxe Queen Room,194,8.9,183
+742,Elm Motel,Bendigo,Deluxe Queen Room,117,7.2,"1,355"
+743,Hydro Majestic Blue Mountains,Medlow Bath,Heritage Room,239,7.9,814
+744,City Golf Club Motel,Toowoomba,Executive King,199,8.6,"1,584"
+745,Beachhouse Bed and Breakfast,Redcliffe,Queen Room,155,8.7,238
+746,Scamander Sanctuary Holiday Park,Scamander,Couples Bell Tent,162,9.2,433
+747,Burke & Wills Motor Inn,Kingaroy,Deluxe Queen Room,166,8.4,527
+748,Econo Lodge Waterford,Loganlea,Queen Room - Non Smoking,180,6.9,756
+749,Elizabethan Lodge,Melbourne,Standard Suite,140,8.2,939
+750,Platinum International,Toowoomba,Superior King Room,206,8.6,"1,422"
+751,Roydons Motor Inn,Tamworth,Standard Queen Room,159,9.0,"1,127"
+752,International Hotel Wagga Wagga,Wagga Wagga,Deluxe King Suite,189,8.5,"3,040"
+753,Port Gregory Caravan Park,Gregory,Economy Quadruple Room,184,8.4,217
+754,YTI Garden Hotel,"Melbourne CBD, Melbourne",Double Room,119,7.4,"3,276"
+755,Sapphire Waters Motor Inn,Merimbula,Ground Queen Suite,150,8.7,"1,159"
+756,Hyatt Place Melbourne Caribbean Park,Scoresby,King Room,192,9.0,773
+757,Nesuto The Entrance,The Entrance,Studio Apartment,179,7.8,"1,511"
+758,Seminara Apartments Coochiemudlo Island,Coochiemudlo,Studio Apartment,240,7.9,189
+759,Alara Motor Inn,Mackay,Queen Room (Non Pet),145,8.5,"1,467"
+760,Flinders Ranges Bed and Breakfast,Hawker,Two-Bedroom House,251,9.2,53
+761,Nightcap at Wintersun Hotel,Geraldton,Studio Queen and Single Room,215,8.0,981
+762,Captains Cove Resort - Waterfront Apartments,Paynesville,Apartment,394,9.1,530
+763,Pod Inn,"Launceston CBD, Launceston",Double Mixed Capsule Bed - Double,84,7.9,"1,532"
+764,The Lodge Bellingen,Bellingen,Superior Queen Room,275,8.7,873
+765,Trinity Beach Pacific,Trinity Beach,Family Suite,291,8.8,197
+766,Pasadena Sydney,Church Point,King Room - Disability Access,230,8.5,373
+767,Hotel Renmark,Renmark,Queen and Sofa Bed Room with River View - Ground Floor,150,8.6,"1,925"
+768,A & A Motel,Proserpine,Queen Room,130,8.1,371
+769,Best Western Plus Hovell Tree Inn,Albury,Queen Room,204,8.2,"3,041"
+770,Little River Bed and Breakfast,Little River,Queen Room,200,8.9,311
+771,Lancemore Lindenderry Red Hill,Red Hill,Courtyard Double Room,500,8.9,582
+772,Spinifex Motel and Serviced Apartments,Mount Isa,Queen Room,193,8.4,202
+773,Lakeview Motor Inn,Belmont,Deluxe King Room,140,7.6,560
+774,Hotel Etico at Mount Victoria Manor,Mount Victoria,Standard Twin Room,218,9.0,523
+775,Domi Serviced Apartments,Glen Waverley,One-Bedroom Apartment,250,8.1,611
+776,Oaks Glenelg Plaza Pier Suites,"Glenelg, Adelaide",Studio Apartment,219,8.1,"6,193"
+777,Great Southern Hotel Melbourne,"Melbourne CBD, Melbourne",Mini Double Room,145,7.8,"11,581"
+778,Zagame's House,"Carlton, Melbourne",House Room,358,9.0,"2,550"
+779,Ingenia Holidays Ulladulla,Ulladulla,Standard One-Bedroom Cabin,176,8.2,471
+780,Club Tropical Resort Darwin,Darwin,Deluxe Queen Room,142,8.6,594
+781,Aurora Kakadu Lodge,Jabiru,Lodge Room with Shared Bathroom,160,7.7,"1,449"
+782,The Guesthouse Maleny,Maleny,The Rosewood Room - Not pet friendly,198,8.9,381
+783,Tenterfield Motor Inn,Tenterfield,Standard Double Room,125,7.4,"1,420"
+784,Jacobs Creek Retreat - Barossa Valley,Tanunda,Suite,349,9.1,337
+785,The Surf House,"Main Beach , Byron Bay",Twin Room with Shared Bathroom,239,8.8,"2,395"
+786,Barrabup Sanctuary BirdHide,Nannup,Deluxe King Studio,195,8.2,133
+787,Madison Ocean Breeze Apartments,Townsville,Standard Studio,171,8.1,"1,876"
+788,Jackaroo Treehouse Rainforest Retreat,Mission Beach,Deluxe Double Room,109,8.4,389
+789,Motel Myall,Dalby,Executive Queen Room,175,7.9,265
+790,Seranin | Gordon,Pymble,Standard Studio,216,7.7,822
+791,Ovolo The Valley Brisbane,"Fortitude Valley, Brisbane",Large,322,9.0,"1,606"
+792,Border Village Roadhouse,Border Village,Queen Room - Pet Friendly,160,7.6,"4,595"
+793,Best Western Hobart,"Hobart CBD, Hobart",King Room with Balcony,242,7.9,"3,756"
+794,The Exchange Hotel - Offering Heritage Accommodation,Beaconsfield,Executive Suite,245,9.2,38
+795,Eastgate on the Range Motel,Toowoomba,Queen Room,170,8.6,"1,406"
+796,The Village Melbourne,"Melbourne CBD, Melbourne",Twin Room with Private Bathroom,204,8.0,754
+797,Best Western Plus Launceston,"Launceston CBD, Launceston",King Room,182,7.7,"3,992"
+798,Crows Nest Motel,Crows Nest,Queen Room,200,8.8,163
+799,Woolmers Estate,Longford,One-Bedroom Apartment,275,8.3,81
+800,Ingenia Holidays Hunter Valley,Cessnock,Standard One-Bedroom Cabin,169,8.6,405
+801,Tuckerbox Motor Inn,Gundagai,Deluxe Queen Room,178,8.8,"1,714"
+802,Estelle Kramer Motel,Armidale,Queen Room,125,8.2,568
+803,Ibis Styles The Entrance,The Entrance,Standard Queen Room,125,8.4,"1,303"
+804,Mercure Hotel Mildura,Mildura,Standard Queen Room,138,7.6,975
+805,Turon Gates - Mountain Retreat,Capertee,Glamping Tent - Adult Only & No Pets Allowed,836,9.5,166
+806,Adelaide International Motel,Adelaide,Deluxe Queen Room,206,8.6,"1,347"
+807,Sails Port Macquarie by Rydges,Port Macquarie,Superior King Room,224,8.1,"2,122"
+808,Kirsten Accommodation Mudgee,Mudgee,One-Bedroom House- Huntar,359,9.2,298
+809,Motel Wellington Wodonga,Wodonga,Budget Double Room,124,7.2,768
+810,Pavilion On Northbourne,Canberra,Atrium King Room,135,8.1,"6,063"
+811,Walsh Farm Shepherd’s Rest,Milton,Deluxe Queen Room,184,9.0,82
+812,Nightcap at Exeter Hotel,Port Adelaide,Economy Double Room,144,8.3,269
+813,Adina Apartment Hotel Sydney Surry Hills,"Surry Hills, Sydney",Standard One-Bedroom Apartment,305,8.4,"2,459"
+814,InterContinental Sorrento Mornington Peninsula,Sorrento,Cosy King Room - Heritage Wing,556,8.3,847
+815,Roseneath Cottage,Northam,Queen Room with Private Bathroom - 2,160,8.2,303
+816,High Street Motel,"Echuca, Echuca",Twin Suite,204,8.2,674
+817,Nightcap at Glengala Hotel,Sunshine,King and Single Studio with Free Welcome Drink for Two Guests,168,8.2,396
+818,ibis Melbourne Central,"Melbourne CBD, Melbourne",Compact Double Room,140,8.3,"5,716"
+819,Takalvan Motel,Bundaberg,Executive Queen Room,200,8.7,978
+820,BEST WESTERN Geelong Motor Inn & Serviced Apartments,Geelong,Standard Queen Room,149,8.2,"1,276"
+821,Stamford Plaza Adelaide,"Adelaide CBD, Adelaide",Superior City King,188,7.7,"7,354"
+822,Eden by the Bay,"Scarness, Hervey Bay",Studio Apartment,240,8.6,"1,659"
+823,Coastal Haven Tiny Home - Port Fairy Tiny Homes,Killarney,Queen Room with Garden View,245,8.5,28
+824,Crowdy Bay Eco Resort,Harrington,Deluxe Double or Twin Room,240,9.3,365
+825,Angaston Saleyards Luxury Accommodation,Angaston,Lindsay House - Pig and Pinot,220,8.6,130
+826,Orchard 2 Bedroom Apartment in Devonport,Don,Two-Bedroom Apartment,175,8.5,58
+827,House on the Hill Bed and Breakfast,Huonville,Suite 1,149,8.9,315
+828,Mantra Towers of Chevron,"Surfers Paradise, Gold Coast",One-Bedroom Apartment,336,7.5,"1,851"
+829,Sun Lagoon Resort,Noosa Heads,One-Bedroom Apartment with Palm View,657,8.7,585
+830,Discovery Parks - Woodman Point,Coogee,Standard Studio Room,219,8.4,330
+831,Quality Hotel Rules Club Wagga,Wagga Wagga,King Room - Non-Smoking,249,8.9,"1,275"
+832,Best Western Plus All Settlers Motor Inn,Tamworth,Deluxe Twin Room,166,8.7,"1,218"
+833,Holiday Inn & Suites Geelong by IHG,Geelong,Standard Room,215,9.0,"1,872"
+834,Maleny Terrace Cottages,Maleny,Deluxe Queen Room,261,8.5,715
+835,Hotel Frangos,Daylesford,Premium King Room with Spa Bath - Monroe,239,7.3,575
+836,EcOasis,Uki,Forest One-Bedroom Chalet,489,8.7,48
+837,Novotel Sydney Darling Harbour,"Sydney CBD, Sydney",Superior Double Room with Two Double Beds,260,8.0,"8,517"
+838,The Sebel Quay West Suites Sydney,"Sydney CBD, Sydney",One-Bedroom Apartment with City View,425,8.7,"2,092"
+839,Il Mondo Boutique Hotel,"Kangaroo Point, Brisbane",Budget Double Room - Stair Access Only,229,8.9,967
+840,Morisset Serviced Apartments,Morisset,Studio Apartment,209,7.8,297
+841,St Ives Apartments,"Hobart CBD, Hobart",Deluxe Double Studio,219,8.8,"3,469"
+842,Mansfield Apartments,Mansfield,King Studio with Sofa Bed,350,9.0,145
+843,Beachside at Brooms,Brooms Head,Apartment with Sea View,253,8.4,156
+844,Bed and Breakfast,Cooranbong,Deluxe King Studio,130,9.5,155
+845,Mount Rumney Escapes - 1h Haven Horse House,Mount Rumney,Holiday Home,607,7.3,139
+846,Gorgeous Getaway Toowoon Bay,Long Jetty,Villa,1600,9.0,14
+847,Holiday Inn Express Sydney Airport by IHG,"Mascot, Sydney",Standard Queen Room - Free Breakfast,204,8.2,"6,510"
+848,Boomerang Hotel,Albury,Queen Studio,160,7.9,"2,461"
+849,The Lakes Hotel,The Entrance,Budget Double Room with Shared Bathroom,90,7.7,"1,366"
+850,Applegum Inn,Toowoomba,Standard Queen Room,145,8.0,"1,535"
+851,City Heart Motel Warrnambool,Warrnambool,Queen Room,283,8.8,"1,962"
+852,St Marks Randwick,"Randwick, Sydney",Double Deluxe,262,8.4,"1,467"
+853,Anchorage Port Stephens,Nelson Bay,Anchorage Partial View Room,449,9.0,"1,092"
+854,El Motor Inn,Port Macquarie,Standard Double Room,230,8.6,"2,868"
+855,A Loft In The Mill Boutique Accommodation,Olinda,Victorian Suite,215,9.1,210
+856,Caledonian Inn - The Stump,Port Fairy,Family Room,210,8.2,370
+857,Kurri Motor Inn,Kurri Kurri,Queen Room,153,7.5,500
+858,Nightcap at Chester Hill Hotel,Bankstown,Queen Studio,171,8.1,626
+859,Hideaway Motor Inn,Armidale,Budget Queen Room,103,8.3,"1,088"
+860,Copper City Motel,Mount Isa,Standard Twin Room,179,8.6,349
+861,Quest Dandenong,Dandenong,Studio,259,8.6,454
+862,BEST WESTERN PLUS Apollo Hotel Newcastle,Newcastle,Deluxe Queen Room,127,8.6,"4,098"
+863,Quest Rockhampton,Rockhampton,Apartment - Disability Access,720,8.7,"2,019"
+864,Mindil Beach Casino Resort,"The Gardens, Darwin",Deluxe King Room,194,7.8,"1,579"
+865,Criterion Hotel Sydney,"Sydney CBD, Sydney",Deluxe Double Room,390,7.0,"1,134"
+866,Discovery Parks - Tannum Sands,Tannum Sands,Economy Studio Unit (External Ensuite),145,8.1,231
+867,Hillview Farmstay,Gundagai,Deluxe One-Bedroom Cottage,300,8.9,359
+868,The Star Grand at The Star Gold Coast,"Broadbeach, Gold Coast",Superior Deluxe King Room,293,8.3,"5,501"
+869,Amalfi Resort,Busselton,Poolside Two-Bedroom Villa,341,8.9,616
+870,Pullman Palm Cove Sea Temple Resort & Spa,Palm Cove,Studio Room with King Bed,279,8.0,365
+871,Marwood Villas,Halls Gap,Luxury Villa 2,330,9.3,546
+872,Grosvenor Hotel Adelaide,"Adelaide CBD, Adelaide",Standard Queen Room,114,7.3,"5,352"
+873,Quest Goulburn,Goulburn,Studio,317,9.1,"1,132"
+874,Kingfisher Bay Resort,K'gari Island (Fraser Island),Standard Resort Hotel Room,319,8.3,932
+875,Binna Burra Sky Lodges,Beechmont,Sky Lodge Studio,385,8.9,242
+876,Halfway Motel,Eden,Twin Room,144,6.8,670
+877,Adelaide Granada Motor Inn,"Glenunga, Adelaide",Standard Double Room,159,7.9,"1,217"
+878,Pepper in Salt - Private Apartments by Holiday Management Company,Kingscliff,Two-Bedroom Apartment with Balcony,1409,7.6,815
+879,Gosford Palms Motor Inn,Gosford,Deluxe Queen Room,160,8.3,587
+880,Albatross Bay Resort,Weipa,Budget Double Room,208,7.6,20
+881,Alexandra Park Motor Inn,Bundaberg,Queen Suite,153,7.2,985
+882,Poet's Recall Motel,Gundagai,Budget Queen Room - Upstairs,105,8.4,"1,826"
+883,Nightcap at Waltzing Matilda Hotel,Springvale,Triple Room,152,7.7,432
+884,Hillcrest Mountain View Retreat,Crystal Creek,Queen Room with Garden View - Blue,235,9.8,141
+885,Atura Adelaide Airport,Adelaide,King Room,289,8.5,"4,845"
+886,Villa San Michele (Official),Port Douglas,One-Bedroom Apartment,325,8.8,777
+887,Metro Hotel Marlow Sydney Central,"Sydney CBD, Sydney",Deluxe Double Room,189,7.4,"7,264"
+888,WM Bankstown,Bankstown,Superior Queen Room,199,7.3,781
+889,Mercure Melbourne Southbank,"Southbank, Melbourne",Superior Queen Room,255,7.8,"4,323"
+890,Ringwood Lake Inn,Ringwood,Deluxe Queen Room,133,7.5,774
+891,Killara Hotel & Suites,Killara,Deluxe Queen Room,242,8.1,660
+892,Commercial Motel,Hay,Standard Twin Room - Pet Friendly,109,6.5,"2,498"
+893,Hotel Sorrento,Sorrento,Double or Twin Room,483,8.9,396
+894,Hawks Nest Motel,Hawks Nest,Queen Room with Pool View,245,8.9,530
+895,Tiona Holiday Park,Tiona,Standard Double Suite,270,8.9,168
+896,Quest Mont Albert,Box Hill,Studio Apartment,286,8.3,637
+897,BIG4 Traralgon Park Lane Holiday Park,Traralgon,Standard Cabin (2 Guests),218,8.7,286
+898,Glen Villa Resort,Byron Bay,Beach Hut with Shared Bathroom,164,7.9,"3,172"
+899,Potters Toowoomba Hotel,Toowoomba,Deluxe King Room,238,8.8,"1,159"
+900,Mercure Wagga Wagga,Wagga Wagga,Superior Queen Room,179,7.8,"1,271"
+901,Duxton Hotel Perth,"Perth CBD, Perth",Deluxe Twin Room,340,8.8,"3,766"
+902,Stamford Grand Adelaide,"Glenelg, Adelaide",Grand City King Room,269,8.2,"6,150"
+903,Bright Accommodation Park,Bright,Treetops Queen (Dorm style),139,7.0,480
+904,Black Sheep Motel Goulburn,Goulburn,Economy Double Room,160,7.9,793
+905,Regal Port Douglas,Port Douglas,Studio with Spa Bath,308,8.4,684
+906,Mildura Holiday Villas,Mildura,Deluxe Studio,190,9.1,828
+907,Clayton Serviced Apartments,Clayton North,One-Bedroom Apartment,255,8.6,462
+908,Overlander Homestead Motel,Roma,Executive King Room,260,8.9,242
+909,Holbrook Motor Village,Holbrook,Queen Cottage,135,8.7,867
+910,Tocumwal Golf Resort,Tocumwal,Standard Double or Twin Room,155,7.9,171
+911,Swissotel Sydney,"Sydney CBD, Sydney",Premier King Room,329,8.3,"3,711"
+912,YHA Sydney Harbour,"Sydney CBD, Sydney",Queen Plus One with Ensuite,318,8.8,"5,971"
+913,BIG4 Adventure Whitsunday Resort,Airlie Beach,Deluxe Studio,269,9.2,522
+914,The Aston Motel Tamworth,Tamworth,Deluxe Queen (not pet friendly),140,8.8,963
+915,Sydney Harbour Hotel,"Sydney CBD, Sydney",Queen Room,314,7.7,"5,600"
+916,Pier 21 Riverside Apartment Hotel,"North Fremantle, Fremantle",One Bedroom Apartment,494,8.4,"1,391"
+917,Royal Hotel Guyra,Guyra,Queen Room,97,6.6,47
+918,3 Sisters Motel,Katoomba,Standard Twin Room,165,8.0,890
+919,Settlement Motor Inn,Deniliquin,Double Room,160,8.5,71
+920,Hotel Grand Chancellor Hobart,"Hobart CBD, Hobart",King Room - City Side,409,9.0,"4,045"
+921,Ingenia Holidays Lake Macquarie,Mannering Park,Budget Room (Not pet friendly),139,8.1,516
+922,Riverside Holiday Apartments,Ballina,Deluxe Queen Room,244,8.2,854
+923,Fairbridge Village,Pinjarra,Queen Studio,176,8.1,147
+924,Madison Capital Executive Apartments,"City Centre, Canberra",Studio Apartment Queen + Single Bed - CT2,183,7.9,"6,636"
+925,Mews Cottages,Gisborne,One-Bedroom House,448,9.7,86
+926,Mountain Culture Farm Stay - pet friendly,Kanimbla,Four-Bedroom House,748,9.1,21
+927,"The Executive Inn, Newcastle",Newcastle,Standard Queen Room - Disability Access,173,8.2,"2,984"
+928,River Front Estate,Huonville,Holiday Home,511,9.3,21
+929,Clifton Homestead,Ranelagh,Superior Queen Room,300,9.5,51
+930,Quest Orange,Orange,Studio Apartment,224,9.2,749
+931,Seabreeze Beach Hotel,South West Rocks,Double Room with Extra Bed,159,7.8,"1,688"
+932,Blue Seas Holiday Villas,Scamander,Two-Bedroom Family Unit 18,305,8.7,338
+933,Best Western Casula Motor Inn,Liverpool,Deluxe Queen Room,177,9.0,653
+934,Verandahs Boutique Apartments,Port Douglas,One-Bedroom Apartment,525,8.9,317
+935,Novotel Melbourne South Wharf,"Melbourne CBD, Melbourne",Standard Double Room with Two Double Beds,178,8.7,"6,112"
+936,Ibis Styles Hobart,"Hobart CBD, Hobart",Accessible Standard Queen Room,246,8.4,"3,846"
+937,Pegasus Apart-Hotel,"Melbourne CBD, Melbourne",Twin Studio,172,8.3,"6,858"
+938,Mount Rumney Escapes - 3 Seaview Wombat House,Mount Rumney,Holiday Home,812,9.3,96
+939,Karuah Gardens Motel,Karuah,Deluxe Queen Room,165,8.3,219
+940,The Terrace Hotel Adelaide,"Adelaide CBD, Adelaide",Executive Suite,899,7.8,"2,874"
+941,Nightcap at Playford Tavern,Elizabeth,King Studio,166,8.0,335
+942,Country Club Villas,Launceston,One-Bedroom Apartment,200,8.5,"1,947"
+943,"Alma Retreat, King bed, Family, Pet Friendly",Alma,Two-Bedroom House,387,8.8,25
+944,Nightcap at Keysborough Hotel,Keysborough,Queen Studio,172,7.7,352
+945,Tanunda Cottages,Tanunda,Two-Bedroom Cottage,219,9.0,385
+946,BIG4 Tassie Getaway Parks St Helens,St Helens,Twin Room with Shared Bathroom,148,8.2,492
+947,Stonewood Villas,Chinchilla,Two-Bedroom Villa,348,8.7,257
+948,Hamilton on Beaumont,Newcastle,Studio,244,8.5,"1,071"
+949,Torquay Tropicana Motel,Torquay,Standard Room,230,7.5,806
+950,Oaks Townsville Metropole Hotel,Townsville,Studio,179,8.1,"2,057"
+951,Wollongbar Motel,"Belongil Beach, Byron Bay",Double Room with Balcony,219,8.0,"2,123"
+952,Wonthaggi Park Lane Holiday Park,Wonthaggi,Glamping Pod with Ensuite,202,8.7,257
+953,Country Comfort Perth,Perth,Executive King Room,186,8.3,"5,846"
+954,ibis Melbourne Hotel and Apartments,"Melbourne CBD, Melbourne",Standard Queen Room,191,7.4,"3,630"
+955,105 On The Park,Bordertown,Deluxe Queen Room,140,8.5,"1,592"
+956,Majestic Oasis Apartments,Port Augusta,Executive Studio Apartment,195,8.5,"2,975"
+957,Rydges Melbourne,"Melbourne CBD, Melbourne",King Room,534,8.9,"3,974"
+958,The Staging Post,Longreach,Standard Queen Room,179,8.6,889
+959,Bungalow 58 Lake Bennett Darwin,Lake Bennett,Three-Bedroom Villa,840,8.9,27
+960,Mantra on View Hotel,"Surfers Paradise, Gold Coast",Twin Room with City View,170,7.0,"8,160"
+961,Albury Paddlesteamer,Albury,Queen Room (Upper Level),139,8.2,"2,317"
+962,Nightcap at Rose & Crown Hotel,Elizabeth,Studio Queen,152,7.7,243
+963,Mercure Welcome Melbourne,"Melbourne CBD, Melbourne",Standard Queen Room,245,7.4,"5,403"
+964,East Perth Suites Hotel,"East Perth, Perth",Standard Studio,209,8.7,"1,838"
+965,Rydges Hobart,Hobart,Manor King Room,220,8.5,"1,311"
+966,Ceduna Foreshore Hotel Motel,Ceduna,Standard Room,150,8.2,"1,660"
+967,Eagle Point Caravan Park,Eagle Point,One-Bedroom Villa,161,7.5,7
+968,YHA Brisbane City,"Brisbane CBD, Brisbane",Double Room with Shared Bathroom,172,8.2,"4,582"
+969,The Stirling Motel,Rockhampton,Queen Executive,195,8.6,985
+970,Avonmore On The Park Boutique Hotel,"Randwick, Sydney",Twin Room with Garden View,220,8.9,"1,071"
+971,In The Brick Spa And Hotel,"St Kilda, Melbourne",Japanese-Style Room,197,8.8,45
+972,Albion Manor,"Albion, Brisbane",Deluxe Queen Room,196,8.2,438
+973,Spicers Clovelly Estate,Montville,Estate Suite,446,9.1,128
+974,Skymirror,Sea Lake,Villa,370,9.2,99
+975,The Sebel West Perth,"West Perth, Perth",Studio Apartment,215,8.5,"1,172"
+976,Park Regis City Quays,Cairns,Standard Hotel Room,206,8.2,"1,561"
